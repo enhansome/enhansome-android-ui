@@ -1,14 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Maintainers"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T15:58:46.846Z",
+    "last_updated": "2026-08-19T12:17:52.717Z",
     "original_repository": "wasabeef/awesome-android-ui",
+    "original_repository_id": 28428729,
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
     "enhanced_repository": "enhansome/enhansome-android-ui",
     "enhanced_repository_description": null,
