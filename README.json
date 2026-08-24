@@ -1,7 +1,4430 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Landscapist",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298332340,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T06:16:10Z",
+            "owner": "skydoves",
+            "repo": "landscapist",
+            "stars": 2574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flinger",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369294794,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T08:09:00Z",
+            "owner": "iamjosephmj",
+            "repo": "flinger",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orchestra",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301044962,
+            "language": "Kotlin",
+            "last_commit": "2023-01-02T14:00:00Z",
+            "owner": "skydoves",
+            "repo": "Orchestra",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "compose-backstack",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 249345157,
+            "language": "Kotlin",
+            "last_commit": "2025-09-18T21:37:53Z",
+            "owner": "rjrjr",
+            "repo": "compose-backstack",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComposeClock",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245678172,
+            "language": "Kotlin",
+            "last_commit": "2021-11-04T22:57:56Z",
+            "owner": "adibfara",
+            "repo": "ComposeClock",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComposeCookBook",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293227683,
+            "language": "Kotlin",
+            "last_commit": "2026-06-28T12:31:21Z",
+            "owner": "Gurupreet",
+            "repo": "ComposeCookBook",
+            "stars": 6871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compose Neumorphism UI",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372238883,
+            "language": "Kotlin",
+            "last_commit": "2021-10-02T12:32:11Z",
+            "owner": "CuriousNikhil",
+            "repo": "neumorphic-compose",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSComposeCookBook",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379199800,
+            "language": "Kotlin",
+            "last_commit": "2025-05-09T11:38:19Z",
+            "owner": "SimformSolutionsPvtLtd",
+            "repo": "SSComposeCookBook",
+            "stars": 726
+          }
+        }
+      ],
+      "title": "Jetpack Compose"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WaveView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 20917569,
+            "language": "Java",
+            "last_commit": "2021-02-23T12:00:05Z",
+            "owner": "john990",
+            "repo": "WaveView",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResideLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23425911,
+            "language": "Java",
+            "last_commit": "2016-02-15T16:32:48Z",
+            "owner": "kyze8439690",
+            "repo": "ResideLayout",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidSwipeLayout",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23301468,
+            "language": "Java",
+            "last_commit": "2023-11-10T08:30:13Z",
+            "owner": "daimajia",
+            "repo": "AndroidSwipeLayout",
+            "stars": 12355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwipeBackLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12353678,
+            "language": "Java",
+            "last_commit": "2019-09-18T06:44:18Z",
+            "owner": "ikew0ng",
+            "repo": "SwipeBackLayout",
+            "stars": 6081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maskable Layout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21773913,
+            "language": "Java",
+            "last_commit": "2020-12-07T08:35:57Z",
+            "owner": "christophesmet",
+            "repo": "android_maskable_layout",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExpandableLayout",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24071596,
+            "language": "Java",
+            "last_commit": "2022-07-20T17:08:04Z",
+            "owner": "traex",
+            "repo": "ExpandableLayout",
+            "stars": 1628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-PullRefreshLayout",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26047095,
+            "language": "Java",
+            "last_commit": "2024-04-02T09:44:47Z",
+            "owner": "baoyongzhang",
+            "repo": "android-PullRefreshLayout",
+            "stars": 2053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TileView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11907752,
+            "language": "Java",
+            "last_commit": "2020-07-07T08:58:56Z",
+            "owner": "moagrius",
+            "repo": "TileView",
+            "stars": 1454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShowcaseView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 5417266,
+            "language": "Java",
+            "last_commit": "2018-02-01T16:31:39Z",
+            "owner": "amlcurran",
+            "repo": "ShowcaseView",
+            "stars": 5550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultra Pull To Refresh",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26568234,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:12:24Z",
+            "owner": "liaohuqiu",
+            "repo": "android-Ultra-Pull-To-Refresh",
+            "stars": 9504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidViewHover",
+          "description": "UnKnown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22756550,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:13:11Z",
+            "owner": "daimajia",
+            "repo": "AndroidViewHover",
+            "stars": 3231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DraggablePanel",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 18727860,
+            "language": "Java",
+            "last_commit": "2017-06-12T17:16:25Z",
+            "owner": "pedrovgs",
+            "repo": "DraggablePanel",
+            "stars": 2958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slidr",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 23092563,
+            "language": "Java",
+            "last_commit": "2023-10-02T12:31:05Z",
+            "owner": "r0adkll",
+            "repo": "Slidr",
+            "stars": 2645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix Pull-to-Refresh",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29138379,
+            "language": "Java",
+            "last_commit": "2022-09-22T09:40:03Z",
+            "owner": "Yalantis",
+            "repo": "Phoenix",
+            "stars": 3974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pull-to-Refresh.Tours",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32143877,
+            "language": "Java",
+            "last_commit": "2022-09-22T09:59:57Z",
+            "owner": "Yalantis",
+            "repo": "Taurus",
+            "stars": 1653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InboxLayout",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29912476,
+            "language": "Java",
+            "last_commit": "2015-03-05T10:03:40Z",
+            "owner": "zhaozhentao",
+            "repo": "InboxLayout",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwipeBack",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20989803,
+            "language": "Java",
+            "last_commit": "2022-05-16T09:33:00Z",
+            "owner": "liuguangqiang",
+            "repo": "SwipeBack",
+            "stars": 1723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArcLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 29686238,
+            "language": "Java",
+            "last_commit": "2018-05-04T21:13:58Z",
+            "owner": "ogaclejapan",
+            "repo": "ArcLayout",
+            "stars": 1354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragger",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32080604,
+            "language": "Java",
+            "last_commit": "2020-06-09T07:49:02Z",
+            "owner": "ppamorim",
+            "repo": "Dragger",
+            "stars": 1289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhysicsLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33710270,
+            "language": "Kotlin",
+            "last_commit": "2026-04-01T04:36:40Z",
+            "owner": "Jawnnypoo",
+            "repo": "PhysicsLayout",
+            "stars": 791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BottomSheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34471600,
+            "language": "Java",
+            "last_commit": "2019-03-13T10:10:01Z",
+            "owner": "Flipboard",
+            "repo": "bottomsheet",
+            "stars": 4492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34471600,
+            "language": "Java",
+            "last_commit": "2019-03-13T10:10:01Z",
+            "owner": "Flipboard",
+            "repo": "bottomsheet",
+            "stars": 4492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bubbles for Android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38301136,
+            "language": "Java",
+            "last_commit": "2021-01-18T15:04:47Z",
+            "owner": "txusballesteros",
+            "repo": "bubbles-for-android",
+            "stars": 1474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidSlidingUpPanel",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10410764,
+            "language": "Java",
+            "last_commit": "2022-07-21T00:21:03Z",
+            "owner": "umano",
+            "repo": "AndroidSlidingUpPanel",
+            "stars": 9448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-transition",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35354764,
+            "language": "Java",
+            "last_commit": "2018-05-04T21:20:36Z",
+            "owner": "kaichunlin",
+            "repo": "android-transition",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircleRefreshLayout",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39400754,
+            "language": "Java",
+            "last_commit": "2017-01-16T07:27:24Z",
+            "owner": "tuesda",
+            "repo": "CircleRefreshLayout",
+            "stars": 1763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveSwipeRefreshLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39815147,
+            "language": "Java",
+            "last_commit": "2021-05-17T19:25:05Z",
+            "owner": "recruit-lifestyle",
+            "repo": "WaveSwipeRefreshLayout",
+            "stars": 1912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FloatingView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 39671961,
+            "language": "Java",
+            "last_commit": "2020-02-03T05:53:41Z",
+            "owner": "recruit-lifestyle",
+            "repo": "FloatingView",
+            "stars": 1137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrenchToast",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41701898,
+            "language": "Java",
+            "last_commit": "2018-10-24T15:39:57Z",
+            "owner": "pyricau",
+            "repo": "frenchtoast",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidSweetSheet",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40324166,
+            "language": "Java",
+            "last_commit": "2018-05-04T21:20:44Z",
+            "owner": "zzz40500",
+            "repo": "AndroidSweetSheet",
+            "stars": 2044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FABRevealLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 42060360,
+            "language": "Java",
+            "last_commit": "2019-04-23T07:59:24Z",
+            "owner": "truizlop",
+            "repo": "FABRevealLayout",
+            "stars": 883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToggleExpandLayout",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41623348,
+            "language": "Java",
+            "last_commit": "2018-05-04T21:20:54Z",
+            "owner": "fenjuly",
+            "repo": "ToggleExpandLayout",
+            "stars": 875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlowingDrawer",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40713924,
+            "language": "Java",
+            "last_commit": "2022-07-20T19:26:19Z",
+            "owner": "mxn21",
+            "repo": "FlowingDrawer",
+            "stars": 2547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41726569,
+            "language": "Java",
+            "last_commit": "2018-10-26T05:22:09Z",
+            "owner": "gelitenight",
+            "repo": "WaveView",
+            "stars": 1609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoldableLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44817543,
+            "language": "Java",
+            "last_commit": "2018-05-04T21:21:06Z",
+            "owner": "worldline",
+            "repo": "FoldableLayout",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TriangleLabelView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54247005,
+            "language": "Java",
+            "last_commit": "2018-05-04T21:21:10Z",
+            "owner": "shts",
+            "repo": "TriangleLabelView",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlexboxLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 58034548,
+            "language": "Kotlin",
+            "last_commit": "2024-04-22T19:22:36Z",
+            "owner": "google",
+            "repo": "flexbox-layout",
+            "stars": 18303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vorolay",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77673168,
+            "language": "Java",
+            "last_commit": "2019-02-11T11:49:28Z",
+            "owner": "Quatja",
+            "repo": "Vorolay",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hover",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 47948132,
+            "language": "Java",
+            "last_commit": "2021-06-02T13:05:52Z",
+            "owner": "google",
+            "repo": "hover",
+            "stars": 2610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FerrisWheel",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117288912,
+            "language": "Kotlin",
+            "last_commit": "2018-10-07T16:59:39Z",
+            "owner": "iglaweb",
+            "repo": "Ferris-Wheel",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArcView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275437869,
+            "language": "Kotlin",
+            "last_commit": "2022-07-21T12:18:31Z",
+            "owner": "amir5121",
+            "repo": "arcView",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DraggablePanel2",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180528103,
+            "language": "Kotlin",
+            "last_commit": "2022-07-20T19:28:30Z",
+            "owner": "hoanganhtuan95ptit",
+            "repo": "DraggablePanel",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TagSphereView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256971788,
+            "language": "Kotlin",
+            "last_commit": "2023-05-30T14:50:20Z",
+            "owner": "AleksRychkov",
+            "repo": "tag-sphere",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LDrawer",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25119308,
+            "language": "Java",
+            "last_commit": "2019-10-25T16:14:28Z",
+            "owner": "keklikhasan",
+            "repo": "LDrawer",
+            "stars": 1374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialNavigationDrawer",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 26396162,
+            "language": "Java",
+            "last_commit": "2015-12-22T18:30:00Z",
+            "owner": "neokree",
+            "repo": "MaterialNavigationDrawer",
+            "stars": 1541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidMaterialDesignToolbar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26119423,
+            "language": "Java",
+            "last_commit": "2020-10-17T20:09:51Z",
+            "owner": "tekinarslan",
+            "repo": "AndroidMaterialDesignToolbar",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TapTargetView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67920599,
+            "language": "Java",
+            "last_commit": "2024-10-08T20:23:47Z",
+            "owner": "KeepSafe",
+            "repo": "TapTargetView",
+            "stars": 5464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotlight",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96007003,
+            "language": "Kotlin",
+            "last_commit": "2022-12-03T07:25:18Z",
+            "owner": "TakuSemba",
+            "repo": "Spotlight",
+            "stars": 3667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialTapTargetPrompt",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60469447,
+            "language": "Java",
+            "last_commit": "2023-04-12T06:06:58Z",
+            "owner": "sjwall",
+            "repo": "MaterialTapTargetPrompt",
+            "stars": 1509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrawerArrowDrawable",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25144435,
+            "language": "Java",
+            "last_commit": "2017-07-08T12:30:06Z",
+            "owner": "ChrisRenke",
+            "repo": "DrawerArrowDrawable",
+            "stars": 818
+          }
+        }
+      ],
+      "title": "Layout"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "circular-progress-button",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20593099,
+            "language": "Java",
+            "last_commit": "2026-06-29T02:12:31Z",
+            "owner": "dmytrodanylyk",
+            "repo": "circular-progress-button",
+            "stars": 5750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-process-button",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19387981,
+            "language": "Java",
+            "last_commit": "2018-08-28T19:33:32Z",
+            "owner": "dmytrodanylyk",
+            "repo": "android-process-button",
+            "stars": 2977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-circlebutton",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16965598,
+            "language": "Java",
+            "last_commit": "2018-05-03T21:00:24Z",
+            "owner": "markushi",
+            "repo": "android-circlebutton",
+            "stars": 1460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-flat-button",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19633938,
+            "language": "Java",
+            "last_commit": "2018-10-25T12:22:08Z",
+            "owner": "hoang8f",
+            "repo": "android-flat-button",
+            "stars": 1391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MovingButton",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30774637,
+            "language": "Java",
+            "last_commit": "2018-05-03T21:00:25Z",
+            "owner": "TheFinestArtist",
+            "repo": "MovingButton",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LabelView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30760819,
+            "language": "Java",
+            "last_commit": "2022-07-23T00:08:31Z",
+            "owner": "linger1216",
+            "repo": "labelview",
+            "stars": 1848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transition-button-android",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189483851,
+            "language": "Java",
+            "last_commit": "2021-12-29T23:37:40Z",
+            "owner": "roynx98",
+            "repo": "transition-button-android",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KTLoadingButton",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235992333,
+            "language": "Kotlin",
+            "last_commit": "2020-02-08T22:27:19Z",
+            "owner": "timonknispel",
+            "repo": "KTLoadingButton",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AwesomeSwitch",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214944708,
+            "language": "Kotlin",
+            "last_commit": "2019-12-10T02:20:13Z",
+            "owner": "anoop44",
+            "repo": "AwesomeSwitch",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FloatingActionButton",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22105003,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:33:21Z",
+            "owner": "makovkastar",
+            "repo": "FloatingActionButton",
+            "stars": 3964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactButton",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120108786,
+            "language": "Java",
+            "last_commit": "2023-05-25T18:18:48Z",
+            "owner": "AmrDeveloper",
+            "repo": "ReactButton",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Button"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SuperRecyclerView",
+          "description": "Apache License V2 NONE",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 27852036,
+            "language": "Java",
+            "last_commit": "2019-10-30T09:59:06Z",
+            "owner": "Malinskiy",
+            "repo": "SuperRecyclerView",
+            "stars": 2608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecyclerViewSwipeDismiss",
+          "description": "BSD 2 License",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34941290,
+            "language": "Java",
+            "last_commit": "2018-05-03T21:00:54Z",
+            "owner": "xcodebuild",
+            "repo": "RecyclerViewSwipeDismiss",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlabbyListView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18008198,
+            "language": "Java",
+            "last_commit": "2019-10-16T11:49:09Z",
+            "owner": "jpardogo",
+            "repo": "FlabbyListView",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recyclerview-stickyheaders",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24187662,
+            "language": "Java",
+            "last_commit": "2016-02-23T12:54:07Z",
+            "owner": "eowise",
+            "repo": "recyclerview-stickyheaders",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParallaxListView",
+          "description": "UnKnown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9857077,
+            "language": "Java",
+            "last_commit": "2016-08-19T02:59:29Z",
+            "owner": "Gnod",
+            "repo": "ParallaxListView",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PullZoomView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23660350,
+            "language": "Java",
+            "last_commit": "2024-04-19T07:17:53Z",
+            "owner": "Frank-Zhu",
+            "repo": "PullZoomView",
+            "stars": 2304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwipeMenuListView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23284820,
+            "language": "Java",
+            "last_commit": "2022-09-08T07:08:01Z",
+            "owner": "baoyongzhang",
+            "repo": "SwipeMenuListView",
+            "stars": 3489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discrollview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15873714,
+            "language": "Java",
+            "last_commit": "2022-02-06T15:46:15Z",
+            "owner": "flavienlaurent",
+            "repo": "discrollview",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StickyListHeaders",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3688678,
+            "language": "Java",
+            "last_commit": "2021-05-21T09:48:05Z",
+            "owner": "emilsjolander",
+            "repo": "StickyListHeaders",
+            "stars": 5463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ListBuddies",
+          "description": "Apache License V2 <img src=\"/art/ListBuddies.png\" width=\"49%\"/ > <img src=\"/art/ListBuddies.gif\" width=\"49%\"/ >",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14275875,
+            "language": "Java",
+            "last_commit": "2019-10-16T11:48:26Z",
+            "owner": "jpardogo",
+            "repo": "ListBuddies",
+            "stars": 954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-ObservableScrollView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26363421,
+            "language": "Java",
+            "last_commit": "2021-06-01T03:54:51Z",
+            "owner": "ksoichiro",
+            "repo": "Android-ObservableScrollView",
+            "stars": 9608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsymmetricGridView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18571888,
+            "language": "Java",
+            "last_commit": "2018-10-13T16:11:11Z",
+            "owner": "felipecsl",
+            "repo": "AsymmetricGridView",
+            "stars": 1831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamicGrid",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 12708443,
+            "language": "Java",
+            "last_commit": "2018-05-22T08:00:18Z",
+            "owner": "askerov",
+            "repo": "DynamicGrid",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidStaggeredGrid",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 15057216,
+            "language": "Java",
+            "last_commit": "2023-04-09T20:59:34Z",
+            "owner": "etsy",
+            "repo": "AndroidStaggeredGrid",
+            "stars": 4725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-parallax-recyclerview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25833129,
+            "language": "Java",
+            "last_commit": "2022-06-05T10:15:14Z",
+            "owner": "kanytu",
+            "repo": "android-parallax-recyclerview",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlurStickyHeaderListView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23984374,
+            "language": "Java",
+            "last_commit": "2018-05-03T21:01:18Z",
+            "owner": "emmano",
+            "repo": "BlurStickyHeaderListView",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecyclerView Animators",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28340997,
+            "language": "Kotlin",
+            "last_commit": "2023-12-30T20:00:42Z",
+            "owner": "wasabeef",
+            "repo": "recyclerview-animators",
+            "stars": 11545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecyclerView-FlexibleDivider",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29302817,
+            "language": "Java",
+            "last_commit": "2023-08-23T10:06:19Z",
+            "owner": "yqritc",
+            "repo": "RecyclerView-FlexibleDivider",
+            "stars": 2378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidTreeView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30626941,
+            "language": "Java",
+            "last_commit": "2022-02-09T07:25:31Z",
+            "owner": "bmelnychuk",
+            "repo": "AndroidTreeView",
+            "stars": 3036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecyclerViewFastScroller",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30742852,
+            "language": "Java",
+            "last_commit": "2020-03-30T19:14:11Z",
+            "owner": "danoz73",
+            "repo": "RecyclerViewFastScroller",
+            "stars": 1121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecyclerView-MultipleViewTypesAdapter",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32778446,
+            "language": "Java",
+            "last_commit": "2018-05-03T21:01:34Z",
+            "owner": "yqritc",
+            "repo": "RecyclerView-MultipleViewTypesAdapter",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwipeToAction",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38777815,
+            "language": "Java",
+            "last_commit": "2018-05-03T21:01:36Z",
+            "owner": "vcalvello",
+            "repo": "SwipeToAction",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Recyclerview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29782400,
+            "language": "Java",
+            "last_commit": "2023-08-21T04:59:46Z",
+            "owner": "h6ah4i",
+            "repo": "android-advancedrecyclerview",
+            "stars": 5314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecyclerItemDecoration",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40952004,
+            "language": "Java",
+            "last_commit": "2018-05-03T23:09:33Z",
+            "owner": "magiepooh",
+            "repo": "RecyclerItemDecoration",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialRecents",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 33921640,
+            "language": "Java",
+            "last_commit": "2018-05-03T22:14:50Z",
+            "owner": "ZieIony",
+            "repo": "MaterialRecents",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dividers",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 42191480,
+            "language": "Java",
+            "last_commit": "2018-05-03T21:01:45Z",
+            "owner": "Karumi",
+            "repo": "Dividers",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drag Select Recycler View",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 44851946,
+            "language": "Kotlin",
+            "last_commit": "2022-04-13T08:49:33Z",
+            "owner": "afollestad",
+            "repo": "drag-select-recyclerview",
+            "stars": 1983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sticky-headers-recyclerview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 24743779,
+            "language": "Java",
+            "last_commit": "2018-10-24T21:23:54Z",
+            "owner": "timehop",
+            "repo": "sticky-headers-recyclerview",
+            "stars": 3781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiel - Declarative RecyclerView Adapters",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283586115,
+            "language": "Kotlin",
+            "last_commit": "2021-05-04T20:32:00Z",
+            "owner": "ibrahimyilmaz",
+            "repo": "kiel",
+            "stars": 366
+          }
+        }
+      ],
+      "title": "List / Grid"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ParallaxPagerTransformer",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19154494,
+            "language": "Java",
+            "last_commit": "2016-07-11T10:24:40Z",
+            "owner": "xgc1986",
+            "repo": "ParallaxPagerTransformer",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViewPagerTransforms",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19723749,
+            "language": "Kotlin",
+            "last_commit": "2021-02-17T16:58:37Z",
+            "owner": "ToxicBakery",
+            "repo": "ViewPagerTransforms",
+            "stars": 2565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircleIndicator",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22430020,
+            "language": "Java",
+            "last_commit": "2023-05-03T11:02:37Z",
+            "owner": "ongakuer",
+            "repo": "CircleIndicator",
+            "stars": 4253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android ViewPagerIndicator",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 2155793,
+            "language": "Java",
+            "last_commit": "2017-11-26T17:13:46Z",
+            "owner": "JakeWharton",
+            "repo": "ViewPagerIndicator",
+            "stars": 10060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-ParallaxHeaderViewPager",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19648633,
+            "language": "Java",
+            "last_commit": "2019-06-15T18:16:25Z",
+            "owner": "kmshack",
+            "repo": "Android-ParallaxHeaderViewPager",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freepager",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30144616,
+            "language": "Java",
+            "last_commit": "2017-04-10T09:39:58Z",
+            "owner": "alexzaitsev",
+            "repo": "freepager",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartTabLayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 30794722,
+            "language": "Java",
+            "last_commit": "2020-06-03T06:02:33Z",
+            "owner": "ogaclejapan",
+            "repo": "SmartTabLayout",
+            "stars": 7062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlipViewPager.Draco",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33734935,
+            "language": "Java",
+            "last_commit": "2022-09-22T09:30:55Z",
+            "owner": "Yalantis",
+            "repo": "FlipViewPager.Draco",
+            "stars": 1815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialViewPager",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 34533286,
+            "language": "Java",
+            "last_commit": "2018-10-12T01:11:20Z",
+            "owner": "florent37",
+            "repo": "MaterialViewPager",
+            "stars": 8073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidRubberIndicator",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 38062901,
+            "language": "Java",
+            "last_commit": "2019-05-28T14:51:23Z",
+            "owner": "liangfeidotme",
+            "repo": "AndroidRubberIndicator",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HollyViewPager",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 40362112,
+            "language": "Java",
+            "last_commit": "2020-07-02T11:54:12Z",
+            "owner": "florent37",
+            "repo": "HollyViewPager",
+            "stars": 1123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCViewPager",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37358745,
+            "language": "Java",
+            "last_commit": "2017-11-06T22:30:39Z",
+            "owner": "sacot41",
+            "repo": "SCViewPager",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwipeSelector",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52305942,
+            "language": "Java",
+            "last_commit": "2019-06-10T23:27:47Z",
+            "owner": "roughike",
+            "repo": "SwipeSelector",
+            "stars": 1085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NavigationTabStrip",
+          "description": "Apache License V2 & MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58871536,
+            "language": "Java",
+            "last_commit": "2020-10-02T08:51:23Z",
+            "owner": "Devlight",
+            "repo": "NavigationTabStrip",
+            "stars": 2212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NavigationTabBar",
+          "description": "Apache License V2 & MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54961145,
+            "language": "Java",
+            "last_commit": "2024-06-09T18:55:50Z",
+            "owner": "Devlight",
+            "repo": "NavigationTabBar",
+            "stars": 4927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UltraViewPager",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 86585776,
+            "language": "Java",
+            "last_commit": "2021-07-14T04:48:51Z",
+            "owner": "alibaba",
+            "repo": "UltraViewPager",
+            "stars": 4947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnapTablayout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144460646,
+            "language": "Kotlin",
+            "last_commit": "2022-07-20T18:28:16Z",
+            "owner": "nirukk52",
+            "repo": "SnapTabLayout",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialTabs",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 25553681,
+            "language": "Java",
+            "last_commit": "2019-03-12T01:46:41Z",
+            "owner": "neokree",
+            "repo": "MaterialTabs",
+            "stars": 1383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PagerSlidingTabStrip",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25520515,
+            "language": "Java",
+            "last_commit": "2019-10-16T11:33:41Z",
+            "owner": "jpardogo",
+            "repo": "PagerSlidingTabStrip",
+            "stars": 2169
+          }
+        }
+      ],
+      "title": "ViewPager"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shimmer-android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 17485132,
+            "language": "Java",
+            "last_commit": "2016-10-10T13:28:38Z",
+            "owner": "romainpiel",
+            "repo": "Shimmer-android",
+            "stars": 1973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shimmer for Android",
+          "description": "BSD 2 License",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 31441862,
+            "language": "Java",
+            "last_commit": "2023-03-23T16:44:24Z",
+            "owner": "facebookarchive",
+            "repo": "shimmer-android",
+            "stars": 5358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Titanic",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 17749071,
+            "language": "Java",
+            "last_commit": "2016-10-10T13:29:21Z",
+            "owner": "romainpiel",
+            "repo": "Titanic",
+            "stars": 1834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatchView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27579492,
+            "language": "Java",
+            "last_commit": "2018-11-21T08:37:36Z",
+            "owner": "Rogero0o",
+            "repo": "MatchView",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-autofittextview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1364139,
+            "language": "Java",
+            "last_commit": "2019-01-12T23:57:12Z",
+            "owner": "grantland",
+            "repo": "android-autofittextview",
+            "stars": 4250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecretTextView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20245179,
+            "language": "Java",
+            "last_commit": "2015-06-03T22:07:21Z",
+            "owner": "mattkula",
+            "repo": "SecretTextView",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextJustify-Android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 12801352,
+            "language": "Java",
+            "last_commit": "2018-05-28T22:39:41Z",
+            "owner": "mathew-kurian",
+            "repo": "TextJustify-Android",
+            "stars": 1842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoundedLetterView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26595984,
+            "language": "Java",
+            "last_commit": "2019-03-23T19:59:05Z",
+            "owner": "pavlospt",
+            "repo": "RoundedLetterView",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextDrawable",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25423296,
+            "language": "Java",
+            "last_commit": "2021-09-02T12:32:50Z",
+            "owner": "amulyakhare",
+            "repo": "TextDrawable",
+            "stars": 3141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabushkaText",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27332886,
+            "language": "Java",
+            "last_commit": "2016-02-03T05:35:13Z",
+            "owner": "hboregio",
+            "repo": "BabushkaText",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExpandableTextView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 19894678,
+            "language": "Java",
+            "last_commit": "2025-12-12T06:29:59Z",
+            "owner": "Manabu-GT",
+            "repo": "ExpandableTextView",
+            "stars": 4057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Float Labeled EditText",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14156568,
+            "language": "Java",
+            "last_commit": "2015-09-09T11:51:52Z",
+            "owner": "wrapp-archive",
+            "repo": "floatlabelededittext",
+            "stars": 1125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SizeAdjustingTextView",
+          "description": "GNU License NONE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16026889,
+            "language": "Java",
+            "last_commit": "2015-05-07T20:43:33Z",
+            "owner": "erchenger",
+            "repo": "SizeAdjustingTextView",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParkedTextView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39570910,
+            "language": "Java",
+            "last_commit": "2017-07-07T01:15:04Z",
+            "owner": "gotokatsuya",
+            "repo": "ParkedTextView",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Code input",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40060032,
+            "language": "Java",
+            "last_commit": "2018-10-25T05:05:10Z",
+            "owner": "glomadrian",
+            "repo": "material-code-input",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextSurface",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44141533,
+            "language": "Java",
+            "last_commit": "2021-02-17T01:52:27Z",
+            "owner": "elevenetc",
+            "repo": "TextSurface",
+            "stars": 2358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmailAutoCompleteTextView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31013448,
+            "language": "Java",
+            "last_commit": "2015-12-20T12:41:15Z",
+            "owner": "tasomaniac",
+            "repo": "EmailAutoCompleteTextView",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tab Digit",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71649119,
+            "language": "Java",
+            "last_commit": "2019-05-13T07:19:28Z",
+            "owner": "xenione",
+            "repo": "tab-digit",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RotatingText",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89948584,
+            "language": "Java",
+            "last_commit": "2020-07-11T09:31:06Z",
+            "owner": "mdgspace",
+            "repo": "RotatingText",
+            "stars": 1573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialEditText",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 25965034,
+            "language": "Java",
+            "last_commit": "2026-03-28T03:48:37Z",
+            "owner": "rengwuxian",
+            "repo": "MaterialEditText",
+            "stars": 6075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialTextField",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 41473277,
+            "language": "Java",
+            "last_commit": "2020-07-02T11:48:06Z",
+            "owner": "florent37",
+            "repo": "MaterialTextField",
+            "stars": 1466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287818662,
+            "language": "Java",
+            "last_commit": "2023-12-30T18:08:59Z",
+            "owner": "AmrDeveloper",
+            "repo": "CodeView",
+            "stars": 417
+          }
+        }
+      ],
+      "title": "Label / Form"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TouchImageView",
+          "description": "LICENSE NONE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2407497,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T00:53:23Z",
+            "owner": "MikeOrtiz",
+            "repo": "TouchImageView",
+            "stars": 2752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircleImageView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16005410,
+            "language": "Java",
+            "last_commit": "2024-05-03T11:20:49Z",
+            "owner": "hdodenhof",
+            "repo": "CircleImageView",
+            "stars": 14488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-shape-imageview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23524300,
+            "language": "Java",
+            "last_commit": "2019-07-27T17:05:09Z",
+            "owner": "siyamed",
+            "repo": "android-shape-imageview",
+            "stars": 2649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GifImageView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19794801,
+            "language": "Kotlin",
+            "last_commit": "2023-04-03T00:46:15Z",
+            "owner": "felipecsl",
+            "repo": "GifImageView",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-crop",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 17706097,
+            "language": "Java",
+            "last_commit": "2021-06-01T04:07:06Z",
+            "owner": "jdamcd",
+            "repo": "android-crop",
+            "stars": 4507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SelectableRoundedImageView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27949451,
+            "language": "Java",
+            "last_commit": "2017-07-12T10:47:34Z",
+            "owner": "pungrue26",
+            "repo": "SelectableRoundedImageView",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoundedImageView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 8347864,
+            "language": "Java",
+            "last_commit": "2023-01-27T18:56:33Z",
+            "owner": "vinc3m1",
+            "repo": "RoundedImageView",
+            "stars": 6402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CropImageView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26125768,
+            "language": "Java",
+            "last_commit": "2019-02-20T09:36:26Z",
+            "owner": "cesards",
+            "repo": "SuperImageView",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitmapMerger",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38324286,
+            "language": "Java",
+            "last_commit": "2018-05-06T17:11:00Z",
+            "owner": "sharish",
+            "repo": "BitmapMerger",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrolling Image View",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 40189739,
+            "language": "Java",
+            "last_commit": "2021-01-29T14:09:56Z",
+            "owner": "Q42",
+            "repo": "AndroidScrollingImageView",
+            "stars": 1757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleCropView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39421354,
+            "language": "Java",
+            "last_commit": "2024-03-05T05:38:57Z",
+            "owner": "igreenwood",
+            "repo": "SimpleCropView",
+            "stars": 2483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-anyshape",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54545883,
+            "language": "Java",
+            "last_commit": "2016-07-10T07:46:24Z",
+            "owner": "lankton",
+            "repo": "android-anyshape",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PanoramaImageView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77010989,
+            "language": "Java",
+            "last_commit": "2022-07-21T17:48:22Z",
+            "owner": "gjiazhe",
+            "repo": "PanoramaImageView",
+            "stars": 2164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChiliPhotoPicker",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215256590,
+            "language": "Kotlin",
+            "last_commit": "2021-01-14T12:50:19Z",
+            "owner": "ChiliLabs",
+            "repo": "ChiliPhotoPicker",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Ribbon",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165635435,
+            "language": "Kotlin",
+            "last_commit": "2022-01-15T05:57:35Z",
+            "owner": "skydoves",
+            "repo": "AndroidRibbon",
+            "stars": 693
+          }
+        }
+      ],
+      "title": "Image"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiscreteSeekBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27277596,
+            "language": "Java",
+            "last_commit": "2018-05-07T20:54:58Z",
+            "owner": "AnderWeb",
+            "repo": "discreteSeekBar",
+            "stars": 2134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeekBarCompat",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38302421,
+            "language": "Kotlin",
+            "last_commit": "2018-05-07T20:54:57Z",
+            "owner": "ahmedrizwan",
+            "repo": "SeekBarCompat",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PreviewSeekBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79966463,
+            "language": "Java",
+            "last_commit": "2024-01-10T22:04:52Z",
+            "owner": "rubensousa",
+            "repo": "PreviewSeekBar",
+            "stars": 3459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RangeSeekBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81301855,
+            "language": "Java",
+            "last_commit": "2024-04-18T06:26:15Z",
+            "owner": "Jay-Goo",
+            "repo": "RangeSeekBar",
+            "stars": 2621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-range-bar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24868009,
+            "language": "Java",
+            "last_commit": "2020-12-09T06:32:19Z",
+            "owner": "oli107",
+            "repo": "material-range-bar",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialDateRangePicker",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42445994,
+            "language": "Java",
+            "last_commit": "2020-05-13T09:50:52Z",
+            "owner": "heysupratim",
+            "repo": "material-daterange-picker",
+            "stars": 1317
+          }
+        }
+      ],
+      "title": "SeekBar"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SmoothProgressBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14758329,
+            "language": "Java",
+            "last_commit": "2021-05-21T18:02:35Z",
+            "owner": "castorflex",
+            "repo": "SmoothProgressBar",
+            "stars": 4515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NumberProgressBar",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19340009,
+            "language": "Java",
+            "last_commit": "2020-09-27T09:09:15Z",
+            "owner": "daimajia",
+            "repo": "NumberProgressBar",
+            "stars": 6089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircleProgress",
+          "description": "UnKnown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25979092,
+            "language": "Java",
+            "last_commit": "2021-10-09T08:07:36Z",
+            "owner": "happydog-intj",
+            "repo": "CircleProgress",
+            "stars": 3801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-square-progressbar",
+          "description": "UnKnown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9866398,
+            "language": "Java",
+            "last_commit": "2018-03-30T13:56:48Z",
+            "owner": "mrwonderman",
+            "repo": "android-square-progressbar",
+            "stars": 1271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleProgressBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18154271,
+            "language": "Java",
+            "last_commit": "2019-10-16T11:30:19Z",
+            "owner": "jpardogo",
+            "repo": "GoogleProgressBar",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-RoundCornerProgressBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28685195,
+            "language": "Kotlin",
+            "last_commit": "2026-06-14T14:02:23Z",
+            "owner": "akexorcist",
+            "repo": "round-corner-progress-bar",
+            "stars": 2601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElasticDownload",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30840914,
+            "language": "Java",
+            "last_commit": "2018-05-10T00:17:05Z",
+            "owner": "Tibolte",
+            "repo": "ElasticDownload",
+            "stars": 1636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FABProgressCircle",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36646658,
+            "language": "Java",
+            "last_commit": "2020-04-20T05:26:57Z",
+            "owner": "JorgeCastilloPrz",
+            "repo": "FABProgressCircle",
+            "stars": 1234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loading",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 34718042,
+            "language": "Java",
+            "last_commit": "2021-10-09T04:21:23Z",
+            "owner": "yankai-victor",
+            "repo": "Loading",
+            "stars": 1232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animated Circle Loading View",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38777385,
+            "language": "Java",
+            "last_commit": "2020-10-14T04:14:37Z",
+            "owner": "jlmd",
+            "repo": "AnimatedCircleLoadingView",
+            "stars": 1161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidFillableLoaders",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40660510,
+            "language": "Java",
+            "last_commit": "2022-07-20T16:54:02Z",
+            "owner": "JorgeCastilloPrz",
+            "repo": "AndroidFillableLoaders",
+            "stars": 1971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spots-dialog",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29190155,
+            "language": "Java",
+            "last_commit": "2021-06-11T23:13:15Z",
+            "owner": "dybarsky",
+            "repo": "spots-dialog",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVLoadingIndicatorView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44883053,
+            "language": "Java",
+            "last_commit": "2023-04-06T06:05:06Z",
+            "owner": "HarlonWang",
+            "repo": "AVLoadingIndicatorView",
+            "stars": 9745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoadingDots",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47453762,
+            "language": "Java",
+            "last_commit": "2018-05-05T22:20:10Z",
+            "owner": "EyalBira",
+            "repo": "loading-dots",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColorArcProgerssBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47400139,
+            "language": "Java",
+            "last_commit": "2018-05-05T22:20:12Z",
+            "owner": "Shinelw",
+            "repo": "ColorArcProgressBar",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArcProgressStackView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64229509,
+            "language": "Java",
+            "last_commit": "2018-05-21T21:55:42Z",
+            "owner": "GIGAMOLE",
+            "repo": "ArcProgressStackView",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveLoadingView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48028229,
+            "language": "Java",
+            "last_commit": "2022-10-15T19:47:40Z",
+            "owner": "tangqi92",
+            "repo": "WaveLoadingView",
+            "stars": 1724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CatLoadingView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55218329,
+            "language": "Kotlin",
+            "last_commit": "2021-03-08T08:25:07Z",
+            "owner": "Rogero0o",
+            "repo": "CatLoadingView",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveLoading",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75813808,
+            "language": "Java",
+            "last_commit": "2018-05-05T22:20:21Z",
+            "owner": "race604",
+            "repo": "WaveLoading",
+            "stars": 1440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SqueezeLoader",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198758804,
+            "language": "Kotlin",
+            "last_commit": "2023-02-27T16:42:15Z",
+            "owner": "mecoFarid",
+            "repo": "SqueezeLoader",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoundedProgressBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291368256,
+            "language": "Kotlin",
+            "last_commit": "2024-01-28T23:55:41Z",
+            "owner": "MackHartley",
+            "repo": "RoundedProgressBar",
+            "stars": 782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAB-Loading",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41619519,
+            "language": "Java",
+            "last_commit": "2018-10-28T13:55:22Z",
+            "owner": "SaeedMasoumi",
+            "repo": "FAB-Loading",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "materialish-progress",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26682353,
+            "language": "Java",
+            "last_commit": "2026-04-02T06:20:00Z",
+            "owner": "nico2sh",
+            "repo": "materialish-progress",
+            "stars": 2468
+          }
+        }
+      ],
+      "title": "Progress"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CircularFloatingActionMenu",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22042941,
+            "language": "Java",
+            "last_commit": "2018-09-20T01:29:42Z",
+            "owner": "oguzbilgener",
+            "repo": "CircularFloatingActionMenu",
+            "stars": 2718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidResideMenu",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15187698,
+            "language": "Java",
+            "last_commit": "2020-11-14T15:08:05Z",
+            "owner": "SpecialCyCi",
+            "repo": "AndroidResideMenu",
+            "stars": 2823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folder-ResideMenu",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31857226,
+            "language": "Java",
+            "last_commit": "2022-07-21T16:53:11Z",
+            "owner": "dkmeteor",
+            "repo": "Folder-ResideMenu",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Side-Menu.Android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29186327,
+            "language": "Java",
+            "last_commit": "2020-08-08T20:17:09Z",
+            "owner": "Yalantis",
+            "repo": "Side-Menu.Android",
+            "stars": 5205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context-Menu.Android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29186291,
+            "language": "Kotlin",
+            "last_commit": "2022-09-22T10:30:21Z",
+            "owner": "Yalantis",
+            "repo": "Context-Menu.Android",
+            "stars": 3825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GuillotineMenu-Android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37468321,
+            "language": "Java",
+            "last_commit": "2022-09-22T09:55:47Z",
+            "owner": "Yalantis",
+            "repo": "GuillotineMenu-Android",
+            "stars": 2695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-snake-menu",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54354930,
+            "language": "Java",
+            "last_commit": "2017-04-11T07:29:00Z",
+            "owner": "xmuSistone",
+            "repo": "android-snake-menu",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BoomMenu",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54263833,
+            "language": "Java",
+            "last_commit": "2023-03-12T07:41:43Z",
+            "owner": "Nightonke",
+            "repo": "BoomMenu",
+            "stars": 5779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExpandableBottomBar",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173377910,
+            "language": "Kotlin",
+            "last_commit": "2026-05-06T08:14:47Z",
+            "owner": "st235",
+            "repo": "ExpandableBottomBar",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-menu",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21690229,
+            "language": "Java",
+            "last_commit": "2024-06-11T07:51:24Z",
+            "owner": "balysv",
+            "repo": "material-menu",
+            "stars": 2449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialSheetFab",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39108999,
+            "language": "Java",
+            "last_commit": "2024-07-31T02:44:17Z",
+            "owner": "gowong",
+            "repo": "material-sheet-fab",
+            "stars": 1554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerMenu",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108719833,
+            "language": "Java",
+            "last_commit": "2023-06-28T09:15:31Z",
+            "owner": "skydoves",
+            "repo": "PowerMenu",
+            "stars": 1197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimatedBottomBar",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243871280,
+            "language": "Kotlin",
+            "last_commit": "2023-02-18T17:36:50Z",
+            "owner": "Droppers",
+            "repo": "AnimatedBottomBar",
+            "stars": 1474
+          }
+        }
+      ],
+      "title": "Menu"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FadingActionBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10283400,
+            "language": "Java",
+            "last_commit": "2018-05-05T22:06:23Z",
+            "owner": "ManuelPeinado",
+            "repo": "FadingActionBar",
+            "stars": 2835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlassActionBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10880863,
+            "language": "Java",
+            "last_commit": "2018-05-05T22:06:20Z",
+            "owner": "ManuelPeinado",
+            "repo": "GlassActionBar",
+            "stars": 1204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotBoringActionBar",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14586398,
+            "language": "Java",
+            "last_commit": "2022-02-06T15:17:18Z",
+            "owner": "flavienlaurent",
+            "repo": "NotBoringActionBar",
+            "stars": 1717
+          }
+        }
+      ],
+      "title": "ActionBar"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DialogPlus",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27913753,
+            "language": "Java",
+            "last_commit": "2022-01-17T09:57:28Z",
+            "owner": "orhanobut",
+            "repo": "dialogplus",
+            "stars": 4959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sweet Alert",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25422633,
+            "language": "Java",
+            "last_commit": "2021-08-31T11:15:13Z",
+            "owner": "pedant",
+            "repo": "sweet-alert-dialog",
+            "stars": 7217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlycoDialog-Matser",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41625616,
+            "language": "Java",
+            "last_commit": "2018-05-05T22:04:20Z",
+            "owner": "H07000223",
+            "repo": "FlycoDialog_Master",
+            "stars": 2258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice Overlay",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139958370,
+            "language": "Kotlin",
+            "last_commit": "2022-04-05T15:16:01Z",
+            "owner": "algolia",
+            "repo": "voice-overlay-android",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-dialogs",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 26102180,
+            "language": "Kotlin",
+            "last_commit": "2023-02-06T02:57:13Z",
+            "owner": "afollestad",
+            "repo": "material-dialogs",
+            "stars": 19553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlertDialogPro",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23537841,
+            "language": "Java",
+            "last_commit": "2020-04-14T11:02:21Z",
+            "owner": "fengdai",
+            "repo": "AlertDialogPro",
+            "stars": 463
+          }
+        }
+      ],
+      "title": "Dialog"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Caldroid",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8641067,
+            "language": "Java",
+            "last_commit": "2021-07-09T14:15:24Z",
+            "owner": "roomorama",
+            "repo": "Caldroid",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-times-square",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 7923123,
+            "language": "Java",
+            "last_commit": "2023-05-28T01:46:37Z",
+            "owner": "square",
+            "repo": "android-times-square",
+            "stars": 4404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-MonthCalendarWidget",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12442542,
+            "language": "Java",
+            "last_commit": "2017-06-18T02:46:16Z",
+            "owner": "romannurik",
+            "repo": "Android-MonthCalendarWidget",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-betterpickers",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 8918733,
+            "language": "Java",
+            "last_commit": "2020-04-01T12:50:44Z",
+            "owner": "code-troopers",
+            "repo": "android-betterpickers",
+            "stars": 2642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-Week-View",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24139593,
+            "language": "Java",
+            "last_commit": "2024-05-30T16:25:55Z",
+            "owner": "alamkanak",
+            "repo": "Android-Week-View",
+            "stars": 3443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SilkCal",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36603099,
+            "language": "Java",
+            "last_commit": "2015-07-19T07:26:18Z",
+            "owner": "NLMartian",
+            "repo": "SilkCal",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SublimePicker",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36177024,
+            "language": "Java",
+            "last_commit": "2023-01-14T05:42:32Z",
+            "owner": "vikramkakkar",
+            "repo": "SublimePicker",
+            "stars": 2291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialDateTimePicker",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28752850,
+            "language": "Java",
+            "last_commit": "2022-08-23T14:10:14Z",
+            "owner": "wdullaer",
+            "repo": "MaterialDateTimePicker",
+            "stars": 4628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CompactCalendarView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35775200,
+            "language": "Java",
+            "last_commit": "2024-03-22T09:43:28Z",
+            "owner": "SundeepK",
+            "repo": "CompactCalendarView",
+            "stars": 1518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-calendarview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30562287,
+            "language": "Java",
+            "last_commit": "2023-05-28T16:37:44Z",
+            "owner": "prolificinteractive",
+            "repo": "material-calendarview",
+            "stars": 5900
+          }
+        }
+      ],
+      "title": "Calendar"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android-RatingReviews",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171705840,
+            "language": "Java",
+            "last_commit": "2020-12-23T18:11:24Z",
+            "owner": "Inconnu08",
+            "repo": "android-ratingreviews",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EazeGraph",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20993744,
+            "language": "Java",
+            "last_commit": "2016-11-11T08:51:39Z",
+            "owner": "paulroehr",
+            "repo": "EazeGraph",
+            "stars": 1591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1995501,
+            "language": "Java",
+            "last_commit": "2023-01-11T03:13:55Z",
+            "owner": "jjoe64",
+            "repo": "GraphView",
+            "stars": 2771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hellocharts-android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25114751,
+            "language": "Java",
+            "last_commit": "2021-06-01T03:12:09Z",
+            "owner": "lecho",
+            "repo": "hellocharts-android",
+            "stars": 7570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPAndroidChart",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19148949,
+            "language": "Java",
+            "last_commit": "2025-06-05T07:06:39Z",
+            "owner": "PhilJay",
+            "repo": "MPAndroidChart",
+            "stars": 38193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WilliamChart",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22572203,
+            "language": "Kotlin",
+            "last_commit": "2025-10-04T22:07:03Z",
+            "owner": "diogobernardino",
+            "repo": "williamchart",
+            "stars": 5103
+          }
+        }
+      ],
+      "title": "Graph"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AndroidViewAnimations",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21113349,
+            "language": "Java",
+            "last_commit": "2021-08-18T23:15:07Z",
+            "owner": "daimajia",
+            "repo": "AndroidViewAnimations",
+            "stars": 12444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ListViewAnimations",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 8877512,
+            "language": "Java",
+            "last_commit": "2016-11-03T13:04:11Z",
+            "owner": "nhaarman",
+            "repo": "ListViewAnimations",
+            "stars": 5521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidImageSlider",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20394581,
+            "language": "Java",
+            "last_commit": "2020-10-01T16:41:17Z",
+            "owner": "daimajia",
+            "repo": "AndroidImageSlider",
+            "stars": 5586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transitions-everywhere",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25237608,
+            "language": "Java",
+            "last_commit": "2020-04-08T09:39:05Z",
+            "owner": "andkulikov",
+            "repo": "Transitions-Everywhere",
+            "stars": 4781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Ripple Background",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 26302821,
+            "language": "Java",
+            "last_commit": "2019-10-11T15:25:48Z",
+            "owner": "skyfishjy",
+            "repo": "android-ripple-background",
+            "stars": 2244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-flip",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4403738,
+            "language": "Java",
+            "last_commit": "2021-03-24T14:51:37Z",
+            "owner": "openaphid",
+            "repo": "android-flip",
+            "stars": 2818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FragmentTransactionExtended",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20477065,
+            "language": "XML",
+            "last_commit": "2016-03-13T23:55:56Z",
+            "owner": "DesarrolloAntonio",
+            "repo": "FragmentTransactionExtended",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KenBurnsView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17890722,
+            "language": "Java",
+            "last_commit": "2022-08-26T21:23:54Z",
+            "owner": "flavioarfaria",
+            "repo": "KenBurnsView",
+            "stars": 2719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rebound",
+          "description": "BSD 2 License http://facebook.github.io/rebound/",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 13486910,
+            "language": "Java",
+            "last_commit": "2019-03-27T22:30:26Z",
+            "owner": "facebookarchive",
+            "repo": "rebound",
+            "stars": 5386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reachability",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23878544,
+            "language": "Java",
+            "last_commit": "2016-02-20T08:46:30Z",
+            "owner": "sakebook",
+            "repo": "Reachability",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimationEasingFunctions",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21318322,
+            "language": "Java",
+            "last_commit": "2020-08-24T03:29:49Z",
+            "owner": "daimajia",
+            "repo": "AnimationEasingFunctions",
+            "stars": 2457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-pathview",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29536194,
+            "language": "Java",
+            "last_commit": "2022-01-23T05:21:50Z",
+            "owner": "geftimov",
+            "repo": "android-pathview",
+            "stars": 2891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViewRevealAnimator",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26656801,
+            "language": "Java",
+            "last_commit": "2016-02-20T16:21:38Z",
+            "owner": "sephiroth74",
+            "repo": "ViewRevealAnimator",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArcAnimator",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31375388,
+            "language": "Java",
+            "last_commit": "2021-03-28T21:29:01Z",
+            "owner": "asyl",
+            "repo": "ArcAnimator",
+            "stars": 1207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearchMenuAnim",
+          "description": "UnKnown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31522186,
+            "language": "Java",
+            "last_commit": "2021-03-26T02:38:05Z",
+            "owner": "kongnanlive",
+            "repo": "SearchMenuAnim",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cross View",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 34994223,
+            "language": "Java",
+            "last_commit": "2016-02-27T03:37:59Z",
+            "owner": "cdflynn",
+            "repo": "crossview",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WoWoViewPager",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53020467,
+            "language": "Java",
+            "last_commit": "2017-04-06T14:07:25Z",
+            "owner": "Nightonke",
+            "repo": "WoWoViewPager",
+            "stars": 2722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lottie for Android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70198875,
+            "language": "Java",
+            "last_commit": "2026-02-15T22:03:57Z",
+            "owner": "airbnb",
+            "repo": "lottie-android",
+            "stars": 35709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RichPath",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 96518561,
+            "language": "Kotlin",
+            "last_commit": "2021-10-08T09:59:51Z",
+            "owner": "tarek360",
+            "repo": "RichPath",
+            "stars": 2333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RubberPicker",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206973245,
+            "language": "Kotlin",
+            "last_commit": "2022-02-04T09:03:12Z",
+            "owner": "Chrisvin",
+            "repo": "RubberPicker",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-ripple",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24117407,
+            "language": "Java",
+            "last_commit": "2024-06-11T07:50:55Z",
+            "owner": "balysv",
+            "repo": "material-ripple",
+            "stars": 2346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RippleEffect",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25208398,
+            "language": "Java",
+            "last_commit": "2021-02-04T10:54:44Z",
+            "owner": "traex",
+            "repo": "RippleEffect",
+            "stars": 4892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircularReveal",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26807221,
+            "language": "Java",
+            "last_commit": "2019-04-07T19:32:24Z",
+            "owner": "ozodrukh",
+            "repo": "CircularReveal",
+            "stars": 2400
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EtsyBlur",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 20775048,
+            "language": "Java",
+            "last_commit": "2025-12-11T23:30:16Z",
+            "owner": "Manabu-GT",
+            "repo": "EtsyBlur",
+            "stars": 753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlurDialogFragment",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22791072,
+            "language": "Java",
+            "last_commit": "2019-08-27T09:53:06Z",
+            "owner": "tvbarthel",
+            "repo": "BlurDialogFragment",
+            "stars": 2075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlurBehind",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19980626,
+            "language": "Java",
+            "last_commit": "2016-05-11T09:48:36Z",
+            "owner": "faradaj",
+            "repo": "BlurBehind",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android StackBlur",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12136636,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:32:32Z",
+            "owner": "kikoso",
+            "repo": "android-stackblur",
+            "stars": 3566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeEffectOverride",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9757473,
+            "language": "Java",
+            "last_commit": "2018-07-24T18:00:32Z",
+            "owner": "AndroidAlliance",
+            "repo": "EdgeEffectOverride",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExplosionField",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42997176,
+            "language": "Java",
+            "last_commit": "2017-01-17T08:06:52Z",
+            "owner": "tyrantgit",
+            "repo": "ExplosionField",
+            "stars": 3574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrokenView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49141039,
+            "language": "Java",
+            "last_commit": "2022-07-21T18:26:25Z",
+            "owner": "zhanyongsheng",
+            "repo": "BrokenView",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trianglify",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49221989,
+            "language": "Java",
+            "last_commit": "2018-02-17T11:06:01Z",
+            "owner": "manolovn",
+            "repo": "trianglify",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExpandableLayout (by skydoves)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211625959,
+            "language": "Kotlin",
+            "last_commit": "2021-05-12T14:16:24Z",
+            "owner": "skydoves",
+            "repo": "ExpandableLayout",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShineButton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62611784,
+            "language": "Kotlin",
+            "last_commit": "2026-07-30T03:36:28Z",
+            "owner": "ChadCSong",
+            "repo": "ShineButton",
+            "stars": 4193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elastic Views",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79647613,
+            "language": "Kotlin",
+            "last_commit": "2024-04-04T01:49:30Z",
+            "owner": "skydoves",
+            "repo": "ElasticViews",
+            "stars": 816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transformation Layout",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243753387,
+            "language": "Kotlin",
+            "last_commit": "2026-01-03T01:52:31Z",
+            "owner": "skydoves",
+            "repo": "TransformationLayout",
+            "stars": 2426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IridescentView",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134422439,
+            "language": "C#",
+            "last_commit": "2024-05-02T14:33:22Z",
+            "owner": "alexandrehtrb",
+            "repo": "IridescentView",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DashedView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 367531707,
+            "language": "Kotlin",
+            "last_commit": "2024-01-28T23:56:42Z",
+            "owner": "MackHartley",
+            "repo": "DashedView",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Effect"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Swipecards",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22678518,
+            "language": "Java",
+            "last_commit": "2019-04-13T16:25:00Z",
+            "owner": "Diolor",
+            "repo": "Swipecards",
+            "stars": 2323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android-Bootstrap",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14046563,
+            "language": "Java",
+            "last_commit": "2021-09-02T06:14:15Z",
+            "owner": "Bearded-Hen",
+            "repo": "Android-Bootstrap",
+            "stars": 7219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android PDFView",
+          "description": "GPL V3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6798814,
+            "language": "Java",
+            "last_commit": "2016-07-04T19:53:19Z",
+            "owner": "JoanZapata",
+            "repo": "android-pdfview",
+            "stars": 2826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dspec",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 23790365,
+            "language": "Java",
+            "last_commit": "2016-09-04T16:53:58Z",
+            "owner": "lucasr",
+            "repo": "dspec",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LolliPin",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 29161493,
+            "language": "Java",
+            "last_commit": "2022-04-04T19:24:45Z",
+            "owner": "omadahealth",
+            "repo": "LolliPin",
+            "stars": 1590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrawableView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30430441,
+            "language": "Java",
+            "last_commit": "2017-08-02T08:08:25Z",
+            "owner": "PaNaVTEC",
+            "repo": "DrawableView",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Shadow 9-Patch",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30823285,
+            "language": "Java",
+            "last_commit": "2021-02-11T01:41:58Z",
+            "owner": "h6ah4i",
+            "repo": "android-materialshadowninepatch",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleFingerGestures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18687267,
+            "language": "Java",
+            "last_commit": "2018-07-02T21:28:54Z",
+            "owner": "championswimmer",
+            "repo": "SimpleFingerGestures_Android_Library",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache License v2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18687267,
+            "language": "Java",
+            "last_commit": "2018-07-02T21:28:54Z",
+            "owner": "championswimmer",
+            "repo": "SimpleFingerGestures_Android_Library",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decor",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33813213,
+            "language": "Java",
+            "last_commit": "2021-07-29T13:36:41Z",
+            "owner": "chemouna",
+            "repo": "Decor",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice Recording Visualizer",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37455705,
+            "language": "Java",
+            "last_commit": "2015-06-22T12:37:05Z",
+            "owner": "tyorikan",
+            "repo": "voice-recording-visualizer",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiVisu",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308376567,
+            "language": "Kotlin",
+            "last_commit": "2023-01-25T01:07:49Z",
+            "owner": "ImnIrdst",
+            "repo": "iiVisu",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyFonts",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37794892,
+            "language": "Java",
+            "last_commit": "2018-05-08T08:40:35Z",
+            "owner": "vsvankhede",
+            "repo": "EasyFonts",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Sliding Activity Library",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41426740,
+            "language": "Java",
+            "last_commit": "2017-12-09T15:03:29Z",
+            "owner": "klinker41",
+            "repo": "android-slidingactivity",
+            "stars": 1259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snake View",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44092796,
+            "language": "Java",
+            "last_commit": "2015-12-23T12:20:46Z",
+            "owner": "txusballesteros",
+            "repo": "snake",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rotatable",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47608321,
+            "language": "Java",
+            "last_commit": "2016-02-14T19:36:14Z",
+            "owner": "yayaa",
+            "repo": "Rotatable",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StatusBarUtil",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51727325,
+            "language": "Java",
+            "last_commit": "2022-06-24T09:55:37Z",
+            "owner": "laobie",
+            "repo": "StatusBarUtil",
+            "stars": 8745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Horizon - Simple visual equaliser for Android",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54457029,
+            "language": "Java",
+            "last_commit": "2022-05-02T14:03:52Z",
+            "owner": "Yalantis",
+            "repo": "Horizon",
+            "stars": 2247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stepper Touch",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85476181,
+            "language": "Kotlin",
+            "last_commit": "2023-07-31T17:16:15Z",
+            "owner": "DanielMartinus",
+            "repo": "Stepper-Touch",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Konfetti",
+          "description": "ISC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86191112,
+            "language": "Kotlin",
+            "last_commit": "2025-08-21T10:03:22Z",
+            "owner": "DanielMartinus",
+            "repo": "Konfetti",
+            "stars": 3385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircleTimer",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239125798,
+            "language": "Java",
+            "last_commit": "2024-02-27T13:07:56Z",
+            "owner": "jaeryo2357",
+            "repo": "circleTimer",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialDesignLibrary",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24628923,
+            "language": "Java",
+            "last_commit": "2023-05-28T17:32:11Z",
+            "owner": "navasmdc",
+            "repo": "MaterialDesignLibrary",
+            "stars": 8918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialShadows",
+          "description": "MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92650347,
+            "language": "Java",
+            "last_commit": "2020-04-01T18:47:02Z",
+            "owner": "harjot-oberai",
+            "repo": "MaterialShadows",
+            "stars": 2167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 27764811,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:35:01Z",
+            "owner": "rey5137",
+            "repo": "material",
+            "stars": 5948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-design-icons",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24953448,
+            "language": null,
+            "last_commit": "2026-08-14T03:02:13Z",
+            "owner": "google",
+            "repo": "material-design-icons",
+            "stars": 53808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Icon Library",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39332505,
+            "language": "Java",
+            "last_commit": "2019-12-15T20:49:51Z",
+            "owner": "code-mc",
+            "repo": "material-icon-lib",
+            "stars": 2253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carbon",
+          "description": "Apache License V2 NONE",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 30326497,
+            "language": "Java",
+            "last_commit": "2021-07-25T22:15:35Z",
+            "owner": "ZieIony",
+            "repo": "Carbon",
+            "stars": 3030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lollipop-AppCompat-Widgets-Skeleton",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29201570,
+            "language": "Java",
+            "last_commit": "2015-01-18T11:34:12Z",
+            "owner": "sachin1092",
+            "repo": "Lollipop-AppCompat-Widgets-Skeleton",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balloon(tooltips)",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196805860,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T06:05:35Z",
+            "owner": "skydoves",
+            "repo": "Balloon",
+            "stars": 3993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColorPickerView",
+          "description": "Apache License V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84079834,
+            "language": "Java",
+            "last_commit": "2026-02-05T18:44:46Z",
+            "owner": "skydoves",
+            "repo": "ColorPickerView",
+            "stars": 1710
+          }
+        }
+      ],
+      "title": "Other"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T15:49:32.039Z",
+    "last_updated": "2026-08-24T13:48:36.550Z",
     "original_repository": "wasabeef/awesome-android-ui",
     "original_repository_id": 28428729,
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
