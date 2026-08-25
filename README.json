@@ -27,7 +27,7 @@
             "archived": false,
             "id": 369294794,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T08:09:00Z",
+            "last_commit": "2026-08-25T12:56:18Z",
             "owner": "iamjosephmj",
             "repo": "flinger",
             "stars": 199
@@ -105,7 +105,7 @@
             "last_commit": "2021-10-02T12:32:11Z",
             "owner": "CuriousNikhil",
             "repo": "neumorphic-compose",
-            "stars": 465
+            "stars": 466
           }
         },
         {
@@ -1815,7 +1815,7 @@
             "last_commit": "2023-03-23T16:44:24Z",
             "owner": "facebookarchive",
             "repo": "shimmer-android",
-            "stars": 5358
+            "stars": 5357
           }
         },
         {
@@ -2478,7 +2478,7 @@
             "last_commit": "2020-09-27T09:09:15Z",
             "owner": "daimajia",
             "repo": "NumberProgressBar",
-            "stars": 6089
+            "stars": 6090
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "last_commit": "2020-04-20T05:26:57Z",
             "owner": "JorgeCastilloPrz",
             "repo": "FABProgressCircle",
-            "stars": 1234
+            "stars": 1233
           }
         },
         {
@@ -2919,7 +2919,7 @@
             "last_commit": "2023-03-12T07:41:43Z",
             "owner": "Nightonke",
             "repo": "BoomMenu",
-            "stars": 5779
+            "stars": 5778
           }
         },
         {
@@ -2994,7 +2994,7 @@
             "last_commit": "2023-02-18T17:36:50Z",
             "owner": "Droppers",
             "repo": "AnimatedBottomBar",
-            "stars": 1474
+            "stars": 1475
           }
         }
       ],
@@ -3669,7 +3669,7 @@
             "last_commit": "2026-02-15T22:03:57Z",
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35709
+            "stars": 35711
           }
         },
         {
@@ -4296,7 +4296,7 @@
             "last_commit": "2023-05-28T17:32:11Z",
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8918
+            "stars": 8917
           }
         },
         {
@@ -4341,7 +4341,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53812
+            "stars": 53814
           }
         },
         {
@@ -4398,7 +4398,7 @@
             "archived": false,
             "id": 196805860,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T06:05:35Z",
+            "last_commit": "2026-08-25T15:43:59Z",
             "owner": "skydoves",
             "repo": "Balloon",
             "stars": 3993
@@ -4424,7 +4424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:44:31.821Z",
+    "last_updated": "2026-08-25T16:09:58.101Z",
     "original_repository": "wasabeef/awesome-android-ui",
     "original_repository_id": 28428729,
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
