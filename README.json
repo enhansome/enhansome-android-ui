@@ -171,7 +171,7 @@
             "last_commit": "2023-11-10T08:30:13Z",
             "owner": "daimajia",
             "repo": "AndroidSwipeLayout",
-            "stars": 12355
+            "stars": 12354
           }
         },
         {
@@ -3126,7 +3126,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19553
+            "stars": 19554
           }
         },
         {
@@ -3363,7 +3363,7 @@
             "last_commit": "2021-06-01T03:12:09Z",
             "owner": "lecho",
             "repo": "hellocharts-android",
-            "stars": 7570
+            "stars": 7571
           }
         },
         {
@@ -4341,7 +4341,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53809
+            "stars": 53812
           }
         },
         {
@@ -4424,7 +4424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:05:23.721Z",
+    "last_updated": "2026-08-25T05:44:31.821Z",
     "original_repository": "wasabeef/awesome-android-ui",
     "original_repository_id": 28428729,
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
