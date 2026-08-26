@@ -12,10 +12,10 @@
             "archived": false,
             "id": 298332340,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T06:16:10Z",
+            "last_commit": "2026-08-25T17:15:43Z",
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2574
+            "stars": 2575
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T12:56:18Z",
             "owner": "iamjosephmj",
             "repo": "flinger",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2021-11-04T22:57:56Z",
             "owner": "adibfara",
             "repo": "ComposeClock",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2021-10-02T12:32:11Z",
             "owner": "CuriousNikhil",
             "repo": "neumorphic-compose",
-            "stars": 466
+            "stars": 465
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-11-10T08:30:13Z",
             "owner": "daimajia",
             "repo": "AndroidSwipeLayout",
-            "stars": 12354
+            "stars": 12353
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2022-09-22T09:40:03Z",
             "owner": "Yalantis",
             "repo": "Phoenix",
-            "stars": 3974
+            "stars": 3973
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2022-09-22T09:59:57Z",
             "owner": "Yalantis",
             "repo": "Taurus",
-            "stars": 1653
+            "stars": 1652
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2021-05-17T19:25:05Z",
             "owner": "recruit-lifestyle",
             "repo": "WaveSwipeRefreshLayout",
-            "stars": 1912
+            "stars": 1911
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2018-05-04T21:20:44Z",
             "owner": "zzz40500",
             "repo": "AndroidSweetSheet",
-            "stars": 2044
+            "stars": 2043
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2024-04-22T19:22:36Z",
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18303
+            "stars": 18301
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2024-10-08T20:23:47Z",
             "owner": "KeepSafe",
             "repo": "TapTargetView",
-            "stars": 5464
+            "stars": 5463
           }
         },
         {
@@ -1248,7 +1248,7 @@
             "last_commit": "2018-05-22T08:00:18Z",
             "owner": "askerov",
             "repo": "DynamicGrid",
-            "stars": 920
+            "stars": 919
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "last_commit": "2022-02-09T07:25:31Z",
             "owner": "bmelnychuk",
             "repo": "AndroidTreeView",
-            "stars": 3036
+            "stars": 3035
           }
         },
         {
@@ -1629,7 +1629,7 @@
             "last_commit": "2018-10-12T01:11:20Z",
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8073
+            "stars": 8072
           }
         },
         {
@@ -1734,7 +1734,7 @@
             "last_commit": "2021-07-14T04:48:51Z",
             "owner": "alibaba",
             "repo": "UltraViewPager",
-            "stars": 4947
+            "stars": 4946
           }
         },
         {
@@ -1815,7 +1815,7 @@
             "last_commit": "2023-03-23T16:44:24Z",
             "owner": "facebookarchive",
             "repo": "shimmer-android",
-            "stars": 5357
+            "stars": 5356
           }
         },
         {
@@ -2196,7 +2196,7 @@
             "last_commit": "2021-06-01T04:07:06Z",
             "owner": "jdamcd",
             "repo": "android-crop",
-            "stars": 4507
+            "stars": 4506
           }
         },
         {
@@ -2256,7 +2256,7 @@
             "last_commit": "2018-05-06T17:11:00Z",
             "owner": "sharish",
             "repo": "BitmapMerger",
-            "stars": 456
+            "stars": 455
           }
         },
         {
@@ -2271,7 +2271,7 @@
             "last_commit": "2021-01-29T14:09:56Z",
             "owner": "Q42",
             "repo": "AndroidScrollingImageView",
-            "stars": 1757
+            "stars": 1756
           }
         },
         {
@@ -2367,7 +2367,7 @@
             "last_commit": "2018-05-07T20:54:58Z",
             "owner": "AnderWeb",
             "repo": "discreteSeekBar",
-            "stars": 2134
+            "stars": 2133
           }
         },
         {
@@ -2463,7 +2463,7 @@
             "last_commit": "2021-05-21T18:02:35Z",
             "owner": "castorflex",
             "repo": "SmoothProgressBar",
-            "stars": 4515
+            "stars": 4514
           }
         },
         {
@@ -2478,7 +2478,7 @@
             "last_commit": "2020-09-27T09:09:15Z",
             "owner": "daimajia",
             "repo": "NumberProgressBar",
-            "stars": 6090
+            "stars": 6089
           }
         },
         {
@@ -2493,7 +2493,7 @@
             "last_commit": "2021-10-09T08:07:36Z",
             "owner": "happydog-intj",
             "repo": "CircleProgress",
-            "stars": 3801
+            "stars": 3799
           }
         },
         {
@@ -2538,7 +2538,7 @@
             "last_commit": "2026-06-14T14:02:23Z",
             "owner": "akexorcist",
             "repo": "round-corner-progress-bar",
-            "stars": 2601
+            "stars": 2599
           }
         },
         {
@@ -2553,7 +2553,7 @@
             "last_commit": "2018-05-10T00:17:05Z",
             "owner": "Tibolte",
             "repo": "ElasticDownload",
-            "stars": 1636
+            "stars": 1635
           }
         },
         {
@@ -2643,7 +2643,7 @@
             "last_commit": "2023-04-06T06:05:06Z",
             "owner": "HarlonWang",
             "repo": "AVLoadingIndicatorView",
-            "stars": 9745
+            "stars": 9743
           }
         },
         {
@@ -2793,7 +2793,7 @@
             "last_commit": "2026-04-02T06:20:00Z",
             "owner": "nico2sh",
             "repo": "materialish-progress",
-            "stars": 2468
+            "stars": 2467
           }
         }
       ],
@@ -3126,7 +3126,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19554
+            "stars": 19555
           }
         },
         {
@@ -3162,7 +3162,7 @@
             "last_commit": "2021-07-09T14:15:24Z",
             "owner": "roomorama",
             "repo": "Caldroid",
-            "stars": 1395
+            "stars": 1394
           }
         },
         {
@@ -3177,7 +3177,7 @@
             "last_commit": "2023-05-28T01:46:37Z",
             "owner": "square",
             "repo": "android-times-square",
-            "stars": 4404
+            "stars": 4403
           }
         },
         {
@@ -3267,7 +3267,7 @@
             "last_commit": "2022-08-23T14:10:14Z",
             "owner": "wdullaer",
             "repo": "MaterialDateTimePicker",
-            "stars": 4628
+            "stars": 4627
           }
         },
         {
@@ -3297,7 +3297,7 @@
             "last_commit": "2023-05-28T16:37:44Z",
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5900
+            "stars": 5899
           }
         }
       ],
@@ -3348,7 +3348,7 @@
             "last_commit": "2023-01-11T03:13:55Z",
             "owner": "jjoe64",
             "repo": "GraphView",
-            "stars": 2771
+            "stars": 2772
           }
         },
         {
@@ -3579,7 +3579,7 @@
             "last_commit": "2022-01-23T05:21:50Z",
             "owner": "geftimov",
             "repo": "android-pathview",
-            "stars": 2891
+            "stars": 2890
           }
         },
         {
@@ -3669,7 +3669,7 @@
             "last_commit": "2026-02-15T22:03:57Z",
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35711
+            "stars": 35712
           }
         },
         {
@@ -3744,7 +3744,7 @@
             "last_commit": "2019-04-07T19:32:24Z",
             "owner": "ozodrukh",
             "repo": "CircularReveal",
-            "stars": 2400
+            "stars": 2399
           }
         }
       ],
@@ -3996,7 +3996,7 @@
             "last_commit": "2021-09-02T06:14:15Z",
             "owner": "Bearded-Hen",
             "repo": "Android-Bootstrap",
-            "stars": 7219
+            "stars": 7218
           }
         },
         {
@@ -4176,7 +4176,7 @@
             "last_commit": "2017-12-09T15:03:29Z",
             "owner": "klinker41",
             "repo": "android-slidingactivity",
-            "stars": 1259
+            "stars": 1258
           }
         },
         {
@@ -4296,7 +4296,7 @@
             "last_commit": "2023-05-28T17:32:11Z",
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8917
+            "stars": 8916
           }
         },
         {
@@ -4341,7 +4341,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53814
+            "stars": 53820
           }
         },
         {
@@ -4371,7 +4371,7 @@
             "last_commit": "2021-07-25T22:15:35Z",
             "owner": "ZieIony",
             "repo": "Carbon",
-            "stars": 3030
+            "stars": 3029
           }
         },
         {
@@ -4401,7 +4401,7 @@
             "last_commit": "2026-08-25T15:43:59Z",
             "owner": "skydoves",
             "repo": "Balloon",
-            "stars": 3993
+            "stars": 3992
           }
         },
         {
@@ -4424,7 +4424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:09:58.101Z",
+    "last_updated": "2026-08-26T16:36:57.539Z",
     "original_repository": "wasabeef/awesome-android-ui",
     "original_repository_id": 28428729,
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
