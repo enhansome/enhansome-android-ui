@@ -12,7 +12,7 @@
             "archived": false,
             "id": 298332340,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T17:15:43Z",
+            "last_commit": "2026-08-26T21:16:16Z",
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2575
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 369294794,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T12:56:18Z",
+            "last_commit": "2026-08-26T21:37:30Z",
             "owner": "iamjosephmj",
             "repo": "flinger",
             "stars": 200
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6871
+            "stars": 6872
           }
         },
         {
@@ -2397,7 +2397,7 @@
             "last_commit": "2024-01-10T22:04:52Z",
             "owner": "rubensousa",
             "repo": "PreviewSeekBar",
-            "stars": 3459
+            "stars": 3458
           }
         },
         {
@@ -2643,7 +2643,7 @@
             "last_commit": "2023-04-06T06:05:06Z",
             "owner": "HarlonWang",
             "repo": "AVLoadingIndicatorView",
-            "stars": 9743
+            "stars": 9742
           }
         },
         {
@@ -2889,7 +2889,7 @@
             "last_commit": "2022-09-22T09:55:47Z",
             "owner": "Yalantis",
             "repo": "GuillotineMenu-Android",
-            "stars": 2695
+            "stars": 2694
           }
         },
         {
@@ -3081,7 +3081,7 @@
             "last_commit": "2021-08-31T11:15:13Z",
             "owner": "pedant",
             "repo": "sweet-alert-dialog",
-            "stars": 7217
+            "stars": 7216
           }
         },
         {
@@ -3126,7 +3126,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19555
+            "stars": 19554
           }
         },
         {
@@ -3363,7 +3363,7 @@
             "last_commit": "2021-06-01T03:12:09Z",
             "owner": "lecho",
             "repo": "hellocharts-android",
-            "stars": 7571
+            "stars": 7570
           }
         },
         {
@@ -3378,7 +3378,7 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38193
+            "stars": 38192
           }
         },
         {
@@ -3684,7 +3684,7 @@
             "last_commit": "2021-10-08T09:59:51Z",
             "owner": "tarek360",
             "repo": "RichPath",
-            "stars": 2333
+            "stars": 2332
           }
         },
         {
@@ -4341,7 +4341,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53820
+            "stars": 53824
           }
         },
         {
@@ -4398,7 +4398,7 @@
             "archived": false,
             "id": 196805860,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T15:43:59Z",
+            "last_commit": "2026-08-26T18:11:33Z",
             "owner": "skydoves",
             "repo": "Balloon",
             "stars": 3992
@@ -4424,9 +4424,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:36:57.539Z",
-    "original_repository": "wasabeef/awesome-android-ui",
-    "original_repository_id": 28428729,
+    "last_updated": "2026-08-27T11:21:12.951Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 28428729,
+      "language": null,
+      "last_commit": "2026-06-05T05:39:52Z",
+      "owner": "wasabeef",
+      "repo": "awesome-android-ui",
+      "stars": 57363
+    },
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
     "enhanced_repository": "enhansome/enhansome-android-ui",
     "enhanced_repository_description": null,
