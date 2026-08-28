@@ -90,7 +90,7 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6872
+            "stars": 6873
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2024-04-22T19:22:36Z",
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18301
+            "stars": 18300
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "last_commit": "2023-12-30T20:00:42Z",
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
-            "stars": 11545
+            "stars": 11544
           }
         },
         {
@@ -1458,7 +1458,7 @@
             "last_commit": "2022-04-13T08:49:33Z",
             "owner": "afollestad",
             "repo": "drag-select-recyclerview",
-            "stars": 1983
+            "stars": 1982
           }
         },
         {
@@ -1950,7 +1950,7 @@
             "last_commit": "2025-12-12T06:29:59Z",
             "owner": "Manabu-GT",
             "repo": "ExpandableTextView",
-            "stars": 4057
+            "stars": 4056
           }
         },
         {
@@ -2934,7 +2934,7 @@
             "last_commit": "2026-05-06T08:14:47Z",
             "owner": "st235",
             "repo": "ExpandableBottomBar",
-            "stars": 788
+            "stars": 787
           }
         },
         {
@@ -3714,7 +3714,7 @@
             "last_commit": "2024-06-11T07:50:55Z",
             "owner": "balysv",
             "repo": "material-ripple",
-            "stars": 2346
+            "stars": 2347
           }
         },
         {
@@ -3885,7 +3885,7 @@
             "last_commit": "2021-05-12T14:16:24Z",
             "owner": "skydoves",
             "repo": "ExpandableLayout",
-            "stars": 845
+            "stars": 844
           }
         },
         {
@@ -4341,7 +4341,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53824
+            "stars": 53830
           }
         },
         {
@@ -4424,7 +4424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:12.951Z",
+    "last_updated": "2026-08-28T00:33:12.667Z",
     "original_repository_info": {
       "archived": false,
       "id": 28428729,
@@ -4432,7 +4432,7 @@
       "last_commit": "2026-06-05T05:39:52Z",
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57363
+      "stars": 57374
     },
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
     "enhanced_repository": "enhansome/enhansome-android-ui",
