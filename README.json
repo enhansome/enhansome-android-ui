@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T21:16:16Z",
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2575
-          }
+            "stars": 2576
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "iamjosephmj",
             "repo": "flinger",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "skydoves",
             "repo": "Orchestra",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "rjrjr",
             "repo": "compose-backstack",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "adibfara",
             "repo": "ComposeClock",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
             "stars": 6873
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "CuriousNikhil",
             "repo": "neumorphic-compose",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSComposeCookBook",
             "stars": 726
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Jetpack Compose"
@@ -142,7 +150,8 @@
             "owner": "john990",
             "repo": "WaveView",
             "stars": 1325
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "kyze8439690",
             "repo": "ResideLayout",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "daimajia",
             "repo": "AndroidSwipeLayout",
             "stars": 12353
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "ikew0ng",
             "repo": "SwipeBackLayout",
             "stars": 6081
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2020-12-07T08:35:57Z",
             "owner": "christophesmet",
             "repo": "android_maskable_layout",
-            "stars": 653
-          }
+            "stars": 654
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "traex",
             "repo": "ExpandableLayout",
             "stars": 1628
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "baoyongzhang",
             "repo": "android-PullRefreshLayout",
             "stars": 2053
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "moagrius",
             "repo": "TileView",
             "stars": 1454
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "amlcurran",
             "repo": "ShowcaseView",
             "stars": 5550
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "liaohuqiu",
             "repo": "android-Ultra-Pull-To-Refresh",
             "stars": 9504
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "daimajia",
             "repo": "AndroidViewHover",
             "stars": 3231
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "pedrovgs",
             "repo": "DraggablePanel",
             "stars": 2958
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "r0adkll",
             "repo": "Slidr",
             "stars": 2645
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Yalantis",
             "repo": "Phoenix",
             "stars": 3973
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "Yalantis",
             "repo": "Taurus",
             "stars": 1652
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "zhaozhentao",
             "repo": "InboxLayout",
             "stars": 696
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "liuguangqiang",
             "repo": "SwipeBack",
             "stars": 1723
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "ogaclejapan",
             "repo": "ArcLayout",
             "stars": 1354
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "ppamorim",
             "repo": "Dragger",
             "stars": 1289
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "Jawnnypoo",
             "repo": "PhysicsLayout",
             "stars": 791
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "Flipboard",
             "repo": "bottomsheet",
             "stars": 4492
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "Flipboard",
             "repo": "bottomsheet",
             "stars": 4492
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "txusballesteros",
             "repo": "bubbles-for-android",
             "stars": 1474
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "umano",
             "repo": "AndroidSlidingUpPanel",
             "stars": 9448
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "kaichunlin",
             "repo": "android-transition",
             "stars": 609
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "tuesda",
             "repo": "CircleRefreshLayout",
             "stars": 1763
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "recruit-lifestyle",
             "repo": "WaveSwipeRefreshLayout",
             "stars": 1911
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "recruit-lifestyle",
             "repo": "FloatingView",
             "stars": 1137
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "pyricau",
             "repo": "frenchtoast",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -576,8 +613,9 @@
             "last_commit": "2018-05-04T21:20:44Z",
             "owner": "zzz40500",
             "repo": "AndroidSweetSheet",
-            "stars": 2043
-          }
+            "stars": 2042
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "truizlop",
             "repo": "FABRevealLayout",
             "stars": 883
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "fenjuly",
             "repo": "ToggleExpandLayout",
             "stars": 875
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "mxn21",
             "repo": "FlowingDrawer",
             "stars": 2547
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "gelitenight",
             "repo": "WaveView",
             "stars": 1609
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "worldline",
             "repo": "FoldableLayout",
             "stars": 593
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "shts",
             "repo": "TriangleLabelView",
             "stars": 865
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "google",
             "repo": "flexbox-layout",
             "stars": 18300
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "Quatja",
             "repo": "Vorolay",
             "stars": 917
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "google",
             "repo": "hover",
             "stars": 2610
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "iglaweb",
             "repo": "Ferris-Wheel",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "amir5121",
             "repo": "arcView",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "hoanganhtuan95ptit",
             "repo": "DraggablePanel",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "AleksRychkov",
             "repo": "tag-sphere",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "keklikhasan",
             "repo": "LDrawer",
             "stars": 1374
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "neokree",
             "repo": "MaterialNavigationDrawer",
             "stars": 1541
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "tekinarslan",
             "repo": "AndroidMaterialDesignToolbar",
             "stars": 711
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -832,7 +886,8 @@
             "owner": "KeepSafe",
             "repo": "TapTargetView",
             "stars": 5463
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -847,7 +902,8 @@
             "owner": "TakuSemba",
             "repo": "Spotlight",
             "stars": 3667
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -862,7 +918,8 @@
             "owner": "sjwall",
             "repo": "MaterialTapTargetPrompt",
             "stars": 1509
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -877,7 +934,8 @@
             "owner": "ChrisRenke",
             "repo": "DrawerArrowDrawable",
             "stars": 818
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Layout"
@@ -898,7 +956,8 @@
             "owner": "dmytrodanylyk",
             "repo": "circular-progress-button",
             "stars": 5750
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -913,7 +972,8 @@
             "owner": "dmytrodanylyk",
             "repo": "android-process-button",
             "stars": 2977
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -928,7 +988,8 @@
             "owner": "markushi",
             "repo": "android-circlebutton",
             "stars": 1460
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "hoang8f",
             "repo": "android-flat-button",
             "stars": 1391
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1020,8 @@
             "owner": "TheFinestArtist",
             "repo": "MovingButton",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1036,8 @@
             "owner": "linger1216",
             "repo": "labelview",
             "stars": 1848
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1052,8 @@
             "owner": "roynx98",
             "repo": "transition-button-android",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1068,8 @@
             "owner": "timonknispel",
             "repo": "KTLoadingButton",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1084,8 @@
             "owner": "anoop44",
             "repo": "AwesomeSwitch",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1100,8 @@
             "owner": "makovkastar",
             "repo": "FloatingActionButton",
             "stars": 3964
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1116,8 @@
             "owner": "AmrDeveloper",
             "repo": "ReactButton",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Button"
@@ -1069,7 +1138,8 @@
             "owner": "Malinskiy",
             "repo": "SuperRecyclerView",
             "stars": 2608
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1154,8 @@
             "owner": "xcodebuild",
             "repo": "RecyclerViewSwipeDismiss",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1170,8 @@
             "owner": "jpardogo",
             "repo": "FlabbyListView",
             "stars": 756
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1186,8 @@
             "owner": "eowise",
             "repo": "recyclerview-stickyheaders",
             "stars": 951
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1202,8 @@
             "owner": "Gnod",
             "repo": "ParallaxListView",
             "stars": 661
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1218,8 @@
             "owner": "Frank-Zhu",
             "repo": "PullZoomView",
             "stars": 2304
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1234,8 @@
             "owner": "baoyongzhang",
             "repo": "SwipeMenuListView",
             "stars": 3489
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1250,8 @@
             "owner": "flavienlaurent",
             "repo": "discrollview",
             "stars": 1431
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1188,8 +1265,9 @@
             "last_commit": "2021-05-21T09:48:05Z",
             "owner": "emilsjolander",
             "repo": "StickyListHeaders",
-            "stars": 5463
-          }
+            "stars": 5462
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1282,8 @@
             "owner": "jpardogo",
             "repo": "ListBuddies",
             "stars": 954
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1298,8 @@
             "owner": "ksoichiro",
             "repo": "Android-ObservableScrollView",
             "stars": 9608
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1314,8 @@
             "owner": "felipecsl",
             "repo": "AsymmetricGridView",
             "stars": 1831
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1249,7 +1330,8 @@
             "owner": "askerov",
             "repo": "DynamicGrid",
             "stars": 919
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1264,7 +1346,8 @@
             "owner": "etsy",
             "repo": "AndroidStaggeredGrid",
             "stars": 4725
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1279,7 +1362,8 @@
             "owner": "kanytu",
             "repo": "android-parallax-recyclerview",
             "stars": 1601
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1294,7 +1378,8 @@
             "owner": "emmano",
             "repo": "BlurStickyHeaderListView",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1309,7 +1394,8 @@
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
             "stars": 11544
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1324,7 +1410,8 @@
             "owner": "yqritc",
             "repo": "RecyclerView-FlexibleDivider",
             "stars": 2378
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1339,7 +1426,8 @@
             "owner": "bmelnychuk",
             "repo": "AndroidTreeView",
             "stars": 3035
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1354,7 +1442,8 @@
             "owner": "danoz73",
             "repo": "RecyclerViewFastScroller",
             "stars": 1121
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1369,7 +1458,8 @@
             "owner": "yqritc",
             "repo": "RecyclerView-MultipleViewTypesAdapter",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1384,7 +1474,8 @@
             "owner": "vcalvello",
             "repo": "SwipeToAction",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1399,7 +1490,8 @@
             "owner": "h6ah4i",
             "repo": "android-advancedrecyclerview",
             "stars": 5314
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1506,8 @@
             "owner": "magiepooh",
             "repo": "RecyclerItemDecoration",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1429,7 +1522,8 @@
             "owner": "ZieIony",
             "repo": "MaterialRecents",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1444,7 +1538,8 @@
             "owner": "Karumi",
             "repo": "Dividers",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1459,7 +1554,8 @@
             "owner": "afollestad",
             "repo": "drag-select-recyclerview",
             "stars": 1982
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1570,8 @@
             "owner": "timehop",
             "repo": "sticky-headers-recyclerview",
             "stars": 3781
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1586,8 @@
             "owner": "ibrahimyilmaz",
             "repo": "kiel",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "List / Grid"
@@ -1510,7 +1608,8 @@
             "owner": "xgc1986",
             "repo": "ParallaxPagerTransformer",
             "stars": 652
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1524,8 +1623,9 @@
             "last_commit": "2021-02-17T16:58:37Z",
             "owner": "ToxicBakery",
             "repo": "ViewPagerTransforms",
-            "stars": 2565
-          }
+            "stars": 2564
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1540,7 +1640,8 @@
             "owner": "ongakuer",
             "repo": "CircleIndicator",
             "stars": 4253
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1555,7 +1656,8 @@
             "owner": "JakeWharton",
             "repo": "ViewPagerIndicator",
             "stars": 10060
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1672,8 @@
             "owner": "kmshack",
             "repo": "Android-ParallaxHeaderViewPager",
             "stars": 1411
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1688,8 @@
             "owner": "alexzaitsev",
             "repo": "freepager",
             "stars": 455
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1704,8 @@
             "owner": "ogaclejapan",
             "repo": "SmartTabLayout",
             "stars": 7062
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1720,8 @@
             "owner": "Yalantis",
             "repo": "FlipViewPager.Draco",
             "stars": 1815
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1736,8 @@
             "owner": "florent37",
             "repo": "MaterialViewPager",
             "stars": 8072
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1752,8 @@
             "owner": "liangfeidotme",
             "repo": "AndroidRubberIndicator",
             "stars": 1583
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1768,8 @@
             "owner": "florent37",
             "repo": "HollyViewPager",
             "stars": 1123
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1784,8 @@
             "owner": "sacot41",
             "repo": "SCViewPager",
             "stars": 809
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1800,8 @@
             "owner": "roughike",
             "repo": "SwipeSelector",
             "stars": 1085
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1704,8 +1815,9 @@
             "last_commit": "2020-10-02T08:51:23Z",
             "owner": "Devlight",
             "repo": "NavigationTabStrip",
-            "stars": 2212
-          }
+            "stars": 2213
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1720,7 +1832,8 @@
             "owner": "Devlight",
             "repo": "NavigationTabBar",
             "stars": 4927
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1735,7 +1848,8 @@
             "owner": "alibaba",
             "repo": "UltraViewPager",
             "stars": 4946
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1750,7 +1864,8 @@
             "owner": "nirukk52",
             "repo": "SnapTabLayout",
             "stars": 761
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1765,7 +1880,8 @@
             "owner": "neokree",
             "repo": "MaterialTabs",
             "stars": 1383
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1780,7 +1896,8 @@
             "owner": "jpardogo",
             "repo": "PagerSlidingTabStrip",
             "stars": 2169
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "ViewPager"
@@ -1801,7 +1918,8 @@
             "owner": "romainpiel",
             "repo": "Shimmer-android",
             "stars": 1973
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1816,7 +1934,8 @@
             "owner": "facebookarchive",
             "repo": "shimmer-android",
             "stars": 5356
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1831,7 +1950,8 @@
             "owner": "romainpiel",
             "repo": "Titanic",
             "stars": 1834
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1966,8 @@
             "owner": "Rogero0o",
             "repo": "MatchView",
             "stars": 844
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1982,8 @@
             "owner": "grantland",
             "repo": "android-autofittextview",
             "stars": 4250
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1876,7 +1998,8 @@
             "owner": "mattkula",
             "repo": "SecretTextView",
             "stars": 604
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1891,7 +2014,8 @@
             "owner": "mathew-kurian",
             "repo": "TextJustify-Android",
             "stars": 1842
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1906,7 +2030,8 @@
             "owner": "pavlospt",
             "repo": "RoundedLetterView",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1921,7 +2046,8 @@
             "owner": "amulyakhare",
             "repo": "TextDrawable",
             "stars": 3141
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1936,7 +2062,8 @@
             "owner": "hboregio",
             "repo": "BabushkaText",
             "stars": 741
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1951,7 +2078,8 @@
             "owner": "Manabu-GT",
             "repo": "ExpandableTextView",
             "stars": 4056
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1966,7 +2094,8 @@
             "owner": "wrapp-archive",
             "repo": "floatlabelededittext",
             "stars": 1125
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1981,7 +2110,8 @@
             "owner": "erchenger",
             "repo": "SizeAdjustingTextView",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -1996,7 +2126,8 @@
             "owner": "gotokatsuya",
             "repo": "ParkedTextView",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2011,7 +2142,8 @@
             "owner": "glomadrian",
             "repo": "material-code-input",
             "stars": 953
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2026,7 +2158,8 @@
             "owner": "elevenetc",
             "repo": "TextSurface",
             "stars": 2358
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2041,7 +2174,8 @@
             "owner": "tasomaniac",
             "repo": "EmailAutoCompleteTextView",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2056,7 +2190,8 @@
             "owner": "xenione",
             "repo": "tab-digit",
             "stars": 611
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2071,7 +2206,8 @@
             "owner": "mdgspace",
             "repo": "RotatingText",
             "stars": 1573
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2086,7 +2222,8 @@
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
             "stars": 6075
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2101,7 +2238,8 @@
             "owner": "florent37",
             "repo": "MaterialTextField",
             "stars": 1466
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2116,7 +2254,8 @@
             "owner": "AmrDeveloper",
             "repo": "CodeView",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Label / Form"
@@ -2137,7 +2276,8 @@
             "owner": "MikeOrtiz",
             "repo": "TouchImageView",
             "stars": 2752
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2152,7 +2292,8 @@
             "owner": "hdodenhof",
             "repo": "CircleImageView",
             "stars": 14488
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2167,7 +2308,8 @@
             "owner": "siyamed",
             "repo": "android-shape-imageview",
             "stars": 2649
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2182,7 +2324,8 @@
             "owner": "felipecsl",
             "repo": "GifImageView",
             "stars": 1169
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2197,7 +2340,8 @@
             "owner": "jdamcd",
             "repo": "android-crop",
             "stars": 4506
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2212,7 +2356,8 @@
             "owner": "pungrue26",
             "repo": "SelectableRoundedImageView",
             "stars": 1048
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2227,7 +2372,8 @@
             "owner": "vinc3m1",
             "repo": "RoundedImageView",
             "stars": 6402
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2242,7 +2388,8 @@
             "owner": "cesards",
             "repo": "SuperImageView",
             "stars": 645
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2257,7 +2404,8 @@
             "owner": "sharish",
             "repo": "BitmapMerger",
             "stars": 455
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2272,7 +2420,8 @@
             "owner": "Q42",
             "repo": "AndroidScrollingImageView",
             "stars": 1756
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2287,7 +2436,8 @@
             "owner": "igreenwood",
             "repo": "SimpleCropView",
             "stars": 2483
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2302,7 +2452,8 @@
             "owner": "lankton",
             "repo": "android-anyshape",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2317,7 +2468,8 @@
             "owner": "gjiazhe",
             "repo": "PanoramaImageView",
             "stars": 2164
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2332,7 +2484,8 @@
             "owner": "ChiliLabs",
             "repo": "ChiliPhotoPicker",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2347,7 +2500,8 @@
             "owner": "skydoves",
             "repo": "AndroidRibbon",
             "stars": 693
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Image"
@@ -2368,7 +2522,8 @@
             "owner": "AnderWeb",
             "repo": "discreteSeekBar",
             "stars": 2133
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2383,7 +2538,8 @@
             "owner": "ahmedrizwan",
             "repo": "SeekBarCompat",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2398,7 +2554,8 @@
             "owner": "rubensousa",
             "repo": "PreviewSeekBar",
             "stars": 3458
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2413,7 +2570,8 @@
             "owner": "Jay-Goo",
             "repo": "RangeSeekBar",
             "stars": 2621
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2428,7 +2586,8 @@
             "owner": "oli107",
             "repo": "material-range-bar",
             "stars": 1662
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2443,7 +2602,8 @@
             "owner": "heysupratim",
             "repo": "material-daterange-picker",
             "stars": 1317
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "SeekBar"
@@ -2463,8 +2623,9 @@
             "last_commit": "2021-05-21T18:02:35Z",
             "owner": "castorflex",
             "repo": "SmoothProgressBar",
-            "stars": 4514
-          }
+            "stars": 4513
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2479,7 +2640,8 @@
             "owner": "daimajia",
             "repo": "NumberProgressBar",
             "stars": 6089
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2494,7 +2656,8 @@
             "owner": "happydog-intj",
             "repo": "CircleProgress",
             "stars": 3799
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2509,7 +2672,8 @@
             "owner": "mrwonderman",
             "repo": "android-square-progressbar",
             "stars": 1271
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2523,8 +2687,9 @@
             "last_commit": "2019-10-16T11:30:19Z",
             "owner": "jpardogo",
             "repo": "GoogleProgressBar",
-            "stars": 1304
-          }
+            "stars": 1305
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2539,7 +2704,8 @@
             "owner": "akexorcist",
             "repo": "round-corner-progress-bar",
             "stars": 2599
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2554,7 +2720,8 @@
             "owner": "Tibolte",
             "repo": "ElasticDownload",
             "stars": 1635
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2569,7 +2736,8 @@
             "owner": "JorgeCastilloPrz",
             "repo": "FABProgressCircle",
             "stars": 1233
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2584,7 +2752,8 @@
             "owner": "yankai-victor",
             "repo": "Loading",
             "stars": 1232
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2599,7 +2768,8 @@
             "owner": "jlmd",
             "repo": "AnimatedCircleLoadingView",
             "stars": 1161
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2614,7 +2784,8 @@
             "owner": "JorgeCastilloPrz",
             "repo": "AndroidFillableLoaders",
             "stars": 1971
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2629,7 +2800,8 @@
             "owner": "dybarsky",
             "repo": "spots-dialog",
             "stars": 1071
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2644,7 +2816,8 @@
             "owner": "HarlonWang",
             "repo": "AVLoadingIndicatorView",
             "stars": 9742
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2659,7 +2832,8 @@
             "owner": "EyalBira",
             "repo": "loading-dots",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2674,7 +2848,8 @@
             "owner": "Shinelw",
             "repo": "ColorArcProgressBar",
             "stars": 939
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2689,7 +2864,8 @@
             "owner": "GIGAMOLE",
             "repo": "ArcProgressStackView",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2704,7 +2880,8 @@
             "owner": "tangqi92",
             "repo": "WaveLoadingView",
             "stars": 1724
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2719,7 +2896,8 @@
             "owner": "Rogero0o",
             "repo": "CatLoadingView",
             "stars": 1069
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2734,7 +2912,8 @@
             "owner": "race604",
             "repo": "WaveLoading",
             "stars": 1440
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2749,7 +2928,8 @@
             "owner": "mecoFarid",
             "repo": "SqueezeLoader",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2764,7 +2944,8 @@
             "owner": "MackHartley",
             "repo": "RoundedProgressBar",
             "stars": 782
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2779,7 +2960,8 @@
             "owner": "SaeedMasoumi",
             "repo": "FAB-Loading",
             "stars": 671
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2794,7 +2976,8 @@
             "owner": "nico2sh",
             "repo": "materialish-progress",
             "stars": 2467
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Progress"
@@ -2815,7 +2998,8 @@
             "owner": "oguzbilgener",
             "repo": "CircularFloatingActionMenu",
             "stars": 2718
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2830,7 +3014,8 @@
             "owner": "SpecialCyCi",
             "repo": "AndroidResideMenu",
             "stars": 2823
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2845,7 +3030,8 @@
             "owner": "dkmeteor",
             "repo": "Folder-ResideMenu",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2860,7 +3046,8 @@
             "owner": "Yalantis",
             "repo": "Side-Menu.Android",
             "stars": 5205
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2875,7 +3062,8 @@
             "owner": "Yalantis",
             "repo": "Context-Menu.Android",
             "stars": 3825
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2890,7 +3078,8 @@
             "owner": "Yalantis",
             "repo": "GuillotineMenu-Android",
             "stars": 2694
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2905,7 +3094,8 @@
             "owner": "xmuSistone",
             "repo": "android-snake-menu",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2920,7 +3110,8 @@
             "owner": "Nightonke",
             "repo": "BoomMenu",
             "stars": 5778
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2935,7 +3126,8 @@
             "owner": "st235",
             "repo": "ExpandableBottomBar",
             "stars": 787
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2950,7 +3142,8 @@
             "owner": "balysv",
             "repo": "material-menu",
             "stars": 2449
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2965,7 +3158,8 @@
             "owner": "gowong",
             "repo": "material-sheet-fab",
             "stars": 1554
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2980,7 +3174,8 @@
             "owner": "skydoves",
             "repo": "PowerMenu",
             "stars": 1197
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -2995,7 +3190,8 @@
             "owner": "Droppers",
             "repo": "AnimatedBottomBar",
             "stars": 1475
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Menu"
@@ -3016,7 +3212,8 @@
             "owner": "ManuelPeinado",
             "repo": "FadingActionBar",
             "stars": 2835
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3031,7 +3228,8 @@
             "owner": "ManuelPeinado",
             "repo": "GlassActionBar",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3046,7 +3244,8 @@
             "owner": "flavienlaurent",
             "repo": "NotBoringActionBar",
             "stars": 1717
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "ActionBar"
@@ -3067,7 +3266,8 @@
             "owner": "orhanobut",
             "repo": "dialogplus",
             "stars": 4959
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3082,7 +3282,8 @@
             "owner": "pedant",
             "repo": "sweet-alert-dialog",
             "stars": 7216
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3097,7 +3298,8 @@
             "owner": "H07000223",
             "repo": "FlycoDialog_Master",
             "stars": 2258
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3112,7 +3314,8 @@
             "owner": "algolia",
             "repo": "voice-overlay-android",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3127,7 +3330,8 @@
             "owner": "afollestad",
             "repo": "material-dialogs",
             "stars": 19554
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3142,7 +3346,8 @@
             "owner": "fengdai",
             "repo": "AlertDialogPro",
             "stars": 463
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Dialog"
@@ -3163,7 +3368,8 @@
             "owner": "roomorama",
             "repo": "Caldroid",
             "stars": 1394
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3178,7 +3384,8 @@
             "owner": "square",
             "repo": "android-times-square",
             "stars": 4403
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3193,7 +3400,8 @@
             "owner": "romannurik",
             "repo": "Android-MonthCalendarWidget",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3208,7 +3416,8 @@
             "owner": "code-troopers",
             "repo": "android-betterpickers",
             "stars": 2642
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3223,7 +3432,8 @@
             "owner": "alamkanak",
             "repo": "Android-Week-View",
             "stars": 3443
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3238,7 +3448,8 @@
             "owner": "NLMartian",
             "repo": "SilkCal",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3253,7 +3464,8 @@
             "owner": "vikramkakkar",
             "repo": "SublimePicker",
             "stars": 2291
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3268,7 +3480,8 @@
             "owner": "wdullaer",
             "repo": "MaterialDateTimePicker",
             "stars": 4627
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3283,7 +3496,8 @@
             "owner": "SundeepK",
             "repo": "CompactCalendarView",
             "stars": 1518
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3298,7 +3512,8 @@
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
             "stars": 5899
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Calendar"
@@ -3319,7 +3534,8 @@
             "owner": "Inconnu08",
             "repo": "android-ratingreviews",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3334,7 +3550,8 @@
             "owner": "paulroehr",
             "repo": "EazeGraph",
             "stars": 1591
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3349,7 +3566,8 @@
             "owner": "jjoe64",
             "repo": "GraphView",
             "stars": 2772
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3364,7 +3582,8 @@
             "owner": "lecho",
             "repo": "hellocharts-android",
             "stars": 7570
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3378,8 +3597,9 @@
             "last_commit": "2025-06-05T07:06:39Z",
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38192
-          }
+            "stars": 38193
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3394,7 +3614,8 @@
             "owner": "diogobernardino",
             "repo": "williamchart",
             "stars": 5103
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Graph"
@@ -3414,8 +3635,9 @@
             "last_commit": "2021-08-18T23:15:07Z",
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12444
-          }
+            "stars": 12443
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3430,7 +3652,8 @@
             "owner": "nhaarman",
             "repo": "ListViewAnimations",
             "stars": 5521
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3445,7 +3668,8 @@
             "owner": "daimajia",
             "repo": "AndroidImageSlider",
             "stars": 5586
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3460,7 +3684,8 @@
             "owner": "andkulikov",
             "repo": "Transitions-Everywhere",
             "stars": 4781
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3475,7 +3700,8 @@
             "owner": "skyfishjy",
             "repo": "android-ripple-background",
             "stars": 2244
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3490,7 +3716,8 @@
             "owner": "openaphid",
             "repo": "android-flip",
             "stars": 2818
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3505,7 +3732,8 @@
             "owner": "DesarrolloAntonio",
             "repo": "FragmentTransactionExtended",
             "stars": 1076
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3520,7 +3748,8 @@
             "owner": "flavioarfaria",
             "repo": "KenBurnsView",
             "stars": 2719
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3535,7 +3764,8 @@
             "owner": "facebookarchive",
             "repo": "rebound",
             "stars": 5386
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3550,7 +3780,8 @@
             "owner": "sakebook",
             "repo": "Reachability",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3565,7 +3796,8 @@
             "owner": "daimajia",
             "repo": "AnimationEasingFunctions",
             "stars": 2457
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3580,7 +3812,8 @@
             "owner": "geftimov",
             "repo": "android-pathview",
             "stars": 2890
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3595,7 +3828,8 @@
             "owner": "sephiroth74",
             "repo": "ViewRevealAnimator",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3610,7 +3844,8 @@
             "owner": "asyl",
             "repo": "ArcAnimator",
             "stars": 1207
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3625,7 +3860,8 @@
             "owner": "kongnanlive",
             "repo": "SearchMenuAnim",
             "stars": 881
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3640,7 +3876,8 @@
             "owner": "cdflynn",
             "repo": "crossview",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3655,7 +3892,8 @@
             "owner": "Nightonke",
             "repo": "WoWoViewPager",
             "stars": 2722
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3670,7 +3908,8 @@
             "owner": "airbnb",
             "repo": "lottie-android",
             "stars": 35712
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3685,7 +3924,8 @@
             "owner": "tarek360",
             "repo": "RichPath",
             "stars": 2332
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3700,7 +3940,8 @@
             "owner": "Chrisvin",
             "repo": "RubberPicker",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3715,7 +3956,8 @@
             "owner": "balysv",
             "repo": "material-ripple",
             "stars": 2347
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3730,7 +3972,8 @@
             "owner": "traex",
             "repo": "RippleEffect",
             "stars": 4892
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3745,7 +3988,8 @@
             "owner": "ozodrukh",
             "repo": "CircularReveal",
             "stars": 2399
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Animation"
@@ -3766,7 +4010,8 @@
             "owner": "Manabu-GT",
             "repo": "EtsyBlur",
             "stars": 753
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3781,7 +4026,8 @@
             "owner": "tvbarthel",
             "repo": "BlurDialogFragment",
             "stars": 2075
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3795,8 +4041,9 @@
             "last_commit": "2016-05-11T09:48:36Z",
             "owner": "faradaj",
             "repo": "BlurBehind",
-            "stars": 511
-          }
+            "stars": 510
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3811,7 +4058,8 @@
             "owner": "kikoso",
             "repo": "android-stackblur",
             "stars": 3566
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3826,7 +4074,8 @@
             "owner": "AndroidAlliance",
             "repo": "EdgeEffectOverride",
             "stars": 639
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3841,7 +4090,8 @@
             "owner": "tyrantgit",
             "repo": "ExplosionField",
             "stars": 3574
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3856,7 +4106,8 @@
             "owner": "zhanyongsheng",
             "repo": "BrokenView",
             "stars": 852
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3871,7 +4122,8 @@
             "owner": "manolovn",
             "repo": "trianglify",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3886,7 +4138,8 @@
             "owner": "skydoves",
             "repo": "ExpandableLayout",
             "stars": 844
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3901,7 +4154,8 @@
             "owner": "ChadCSong",
             "repo": "ShineButton",
             "stars": 4193
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3916,7 +4170,8 @@
             "owner": "skydoves",
             "repo": "ElasticViews",
             "stars": 816
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3930,8 +4185,9 @@
             "last_commit": "2026-01-03T01:52:31Z",
             "owner": "skydoves",
             "repo": "TransformationLayout",
-            "stars": 2426
-          }
+            "stars": 2427
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3946,7 +4202,8 @@
             "owner": "alexandrehtrb",
             "repo": "IridescentView",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3961,7 +4218,8 @@
             "owner": "MackHartley",
             "repo": "DashedView",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Effect"
@@ -3982,7 +4240,8 @@
             "owner": "Diolor",
             "repo": "Swipecards",
             "stars": 2323
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -3997,7 +4256,8 @@
             "owner": "Bearded-Hen",
             "repo": "Android-Bootstrap",
             "stars": 7218
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4012,7 +4272,8 @@
             "owner": "JoanZapata",
             "repo": "android-pdfview",
             "stars": 2826
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4027,7 +4288,8 @@
             "owner": "lucasr",
             "repo": "dspec",
             "stars": 544
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4042,7 +4304,8 @@
             "owner": "omadahealth",
             "repo": "LolliPin",
             "stars": 1590
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4057,7 +4320,8 @@
             "owner": "PaNaVTEC",
             "repo": "DrawableView",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4072,7 +4336,8 @@
             "owner": "h6ah4i",
             "repo": "android-materialshadowninepatch",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4087,7 +4352,8 @@
             "owner": "championswimmer",
             "repo": "SimpleFingerGestures_Android_Library",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4102,7 +4368,8 @@
             "owner": "championswimmer",
             "repo": "SimpleFingerGestures_Android_Library",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4117,7 +4384,8 @@
             "owner": "chemouna",
             "repo": "Decor",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4132,7 +4400,8 @@
             "owner": "tyorikan",
             "repo": "voice-recording-visualizer",
             "stars": 549
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4147,7 +4416,8 @@
             "owner": "ImnIrdst",
             "repo": "iiVisu",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4161,8 +4431,9 @@
             "last_commit": "2018-05-08T08:40:35Z",
             "owner": "vsvankhede",
             "repo": "EasyFonts",
-            "stars": 426
-          }
+            "stars": 425
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4177,7 +4448,8 @@
             "owner": "klinker41",
             "repo": "android-slidingactivity",
             "stars": 1258
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4192,7 +4464,8 @@
             "owner": "txusballesteros",
             "repo": "snake",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4207,7 +4480,8 @@
             "owner": "yayaa",
             "repo": "Rotatable",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4222,7 +4496,8 @@
             "owner": "laobie",
             "repo": "StatusBarUtil",
             "stars": 8745
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4237,7 +4512,8 @@
             "owner": "Yalantis",
             "repo": "Horizon",
             "stars": 2247
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4252,7 +4528,8 @@
             "owner": "DanielMartinus",
             "repo": "Stepper-Touch",
             "stars": 688
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4267,7 +4544,8 @@
             "owner": "DanielMartinus",
             "repo": "Konfetti",
             "stars": 3385
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4282,7 +4560,8 @@
             "owner": "jaeryo2357",
             "repo": "circleTimer",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4297,7 +4576,8 @@
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
             "stars": 8916
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4312,7 +4592,8 @@
             "owner": "harjot-oberai",
             "repo": "MaterialShadows",
             "stars": 2167
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4327,7 +4608,8 @@
             "owner": "rey5137",
             "repo": "material",
             "stars": 5948
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4338,11 +4620,12 @@
             "archived": false,
             "id": 24953448,
             "language": null,
-            "last_commit": "2026-08-14T03:02:13Z",
+            "last_commit": "2026-08-28T04:47:19Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53830
-          }
+            "stars": 53837
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4357,7 +4640,8 @@
             "owner": "code-mc",
             "repo": "material-icon-lib",
             "stars": 2253
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4372,7 +4656,8 @@
             "owner": "ZieIony",
             "repo": "Carbon",
             "stars": 3029
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4387,7 +4672,8 @@
             "owner": "sachin1092",
             "repo": "Lollipop-AppCompat-Widgets-Skeleton",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4398,11 +4684,12 @@
             "archived": false,
             "id": 196805860,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T18:11:33Z",
+            "last_commit": "2026-08-28T06:54:33Z",
             "owner": "skydoves",
             "repo": "Balloon",
             "stars": 3992
-          }
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         },
         {
           "node_type": "item",
@@ -4416,15 +4703,16 @@
             "last_commit": "2026-02-05T18:44:46Z",
             "owner": "skydoves",
             "repo": "ColorPickerView",
-            "stars": 1710
-          }
+            "stars": 1711
+          },
+          "first_seen": "2026-08-29T00:04:14.296Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:33:12.667Z",
+    "last_updated": "2026-08-29T00:04:14.296Z",
     "original_repository_info": {
       "archived": false,
       "id": 28428729,
@@ -4432,7 +4720,7 @@
       "last_commit": "2026-06-05T05:39:52Z",
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57374
+      "stars": 57388
     },
     "original_repository_sha": "312f9be3c50b3ea33ff3ba7eb9aa1c21b52de8b2",
     "enhanced_repository": "enhansome/enhansome-android-ui",
