@@ -15,8 +15,8 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T21:16:16Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-01T13:17:36Z",
+            "open_issues": 8,
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2576,
@@ -81,7 +81,7 @@
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "Orchestra",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "android",
               "balloon",
@@ -1992,7 +1992,7 @@
             "open_issues": 106,
             "owner": "etsy",
             "repo": "AndroidStaggeredGrid",
-            "stars": 4725,
+            "stars": 4724,
             "topics": [
               "non-sox"
             ]
@@ -3868,7 +3868,7 @@
             "open_issues": 14,
             "owner": "castorflex",
             "repo": "SmoothProgressBar",
-            "stars": 4514,
+            "stars": 4513,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4273,7 +4273,7 @@
             "open_issues": 9,
             "owner": "race604",
             "repo": "WaveLoading",
-            "stars": 1440,
+            "stars": 1439,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4568,7 +4568,7 @@
             "open_issues": 121,
             "owner": "Nightonke",
             "repo": "BoomMenu",
-            "stars": 5778,
+            "stars": 5776,
             "topics": [
               "animation",
               "boom",
@@ -5338,7 +5338,7 @@
             "open_issues": 2191,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38192,
+            "stars": 38190,
             "topics": [
               "android",
               "chart",
@@ -5441,7 +5441,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2020-10-01T16:41:17Z",
-            "open_issues": 310,
+            "open_issues": 309,
             "owner": "daimajia",
             "repo": "AndroidImageSlider",
             "stars": 5585,
@@ -5787,7 +5787,7 @@
             "open_issues": 72,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35714,
+            "stars": 35716,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6215,7 +6215,7 @@
             "open_issues": 7,
             "owner": "skydoves",
             "repo": "TransformationLayout",
-            "stars": 2427,
+            "stars": 2428,
             "topics": [
               "android",
               "android-library",
@@ -6896,7 +6896,7 @@
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53851,
+            "stars": 53857,
             "topics": [
               "android",
               "icons",
@@ -6997,7 +6997,7 @@
             "open_issues": 2,
             "owner": "skydoves",
             "repo": "Balloon",
-            "stars": 3995,
+            "stars": 3996,
             "topics": [
               "android",
               "android-library",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:00:53.483Z",
+    "last_updated": "2026-09-01T18:45:11.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 39,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57420,
+      "stars": 57428,
       "topics": [
         "android",
         "awesome",
