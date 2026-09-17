@@ -158,7 +158,7 @@
             "open_issues": 5,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6876,
+            "stars": 6877,
             "topics": [
               "android",
               "android-ui",
@@ -305,7 +305,7 @@
             "open_issues": 383,
             "owner": "daimajia",
             "repo": "AndroidSwipeLayout",
-            "stars": 12349,
+            "stars": 12350,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1067,7 +1067,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18297,
+            "stars": 18298,
             "topics": [
               "android",
               "android-library",
@@ -1308,7 +1308,7 @@
             "open_issues": 57,
             "owner": "KeepSafe",
             "repo": "TapTargetView",
-            "stars": 5459,
+            "stars": 5458,
             "topics": [
               "android",
               "feature-discovery",
@@ -2878,7 +2878,7 @@
             "open_issues": 28,
             "owner": "facebookarchive",
             "repo": "shimmer-android",
-            "stars": 5352,
+            "stars": 5351,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3985,7 +3985,7 @@
             "open_issues": 4,
             "owner": "akexorcist",
             "repo": "round-corner-progress-bar",
-            "stars": 2601,
+            "stars": 2602,
             "topics": [
               "android",
               "android-library",
@@ -4774,7 +4774,7 @@
             "open_issues": 10,
             "owner": "ManuelPeinado",
             "repo": "GlassActionBar",
-            "stars": 1205,
+            "stars": 1204,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -6896,7 +6896,7 @@
             "open_issues": 428,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53961,
+            "stars": 53970,
             "topics": [
               "android",
               "icons",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:01:54.302Z",
+    "last_updated": "2026-09-17T19:13:02.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 39,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57610,
+      "stars": 57618,
       "topics": [
         "android",
         "awesome",
