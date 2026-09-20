@@ -16,7 +16,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T20:34:57Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2583,
@@ -2445,7 +2445,7 @@
             "open_issues": 210,
             "owner": "JakeWharton",
             "repo": "ViewPagerIndicator",
-            "stars": 10059,
+            "stars": 10058,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2516,7 +2516,7 @@
             "open_issues": 125,
             "owner": "ogaclejapan",
             "repo": "SmartTabLayout",
-            "stars": 7058,
+            "stars": 7059,
             "topics": [
               "android",
               "smarttablayout",
@@ -2688,7 +2688,7 @@
             "open_issues": 38,
             "owner": "Devlight",
             "repo": "NavigationTabStrip",
-            "stars": 2211,
+            "stars": 2210,
             "topics": [
               "android",
               "bar",
@@ -3391,7 +3391,7 @@
             "open_issues": 7,
             "owner": "hdodenhof",
             "repo": "CircleImageView",
-            "stars": 14487,
+            "stars": 14486,
             "topics": [
               "android",
               "imageview",
@@ -3868,7 +3868,7 @@
             "open_issues": 14,
             "owner": "castorflex",
             "repo": "SmoothProgressBar",
-            "stars": 4513,
+            "stars": 4514,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4933,7 +4933,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19550,
+            "stars": 19549,
             "topics": [
               "alert",
               "android",
@@ -5334,11 +5334,11 @@
             "id": 19148949,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2025-06-05T07:06:39Z",
-            "open_issues": 2191,
+            "last_commit": "2026-09-20T17:12:00Z",
+            "open_issues": 2066,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38172,
+            "stars": 38170,
             "topics": [
               "android",
               "chart",
@@ -5465,7 +5465,7 @@
             "open_issues": 7,
             "owner": "andkulikov",
             "repo": "Transitions-Everywhere",
-            "stars": 4780,
+            "stars": 4779,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -6893,10 +6893,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T02:15:08Z",
-            "open_issues": 429,
+            "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53989,
+            "stars": 53995,
             "topics": [
               "android",
               "icons",
@@ -7032,7 +7032,7 @@
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "ColorPickerView",
-            "stars": 1712,
+            "stars": 1713,
             "topics": [
               "android",
               "android-library",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:10:48.960Z",
+    "last_updated": "2026-09-20T18:16:40.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7061,10 +7061,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-05T05:39:52Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57646,
+      "stars": 57658,
       "topics": [
         "android",
         "awesome",
