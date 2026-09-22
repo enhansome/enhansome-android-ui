@@ -189,7 +189,7 @@
             "open_issues": 4,
             "owner": "CuriousNikhil",
             "repo": "neumorphic-compose",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "jetpack-compose",
               "kotlin",
@@ -629,7 +629,7 @@
             "open_issues": 44,
             "owner": "liuguangqiang",
             "repo": "SwipeBack",
-            "stars": 1723,
+            "stars": 1724,
             "topics": [
               "android",
               "gesture",
@@ -1645,7 +1645,7 @@
             "open_issues": 78,
             "owner": "makovkastar",
             "repo": "FloatingActionButton",
-            "stars": 3962,
+            "stars": 3961,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1771,7 +1771,7 @@
             "open_issues": 17,
             "owner": "eowise",
             "repo": "recyclerview-stickyheaders",
-            "stars": 951,
+            "stars": 950,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1924,7 +1924,7 @@
             "open_issues": 177,
             "owner": "ksoichiro",
             "repo": "Android-ObservableScrollView",
-            "stars": 9605,
+            "stars": 9604,
             "topics": [
               "android",
               "android-library",
@@ -2320,7 +2320,7 @@
             "open_issues": 83,
             "owner": "timehop",
             "repo": "sticky-headers-recyclerview",
-            "stars": 3780,
+            "stars": 3779,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2718,7 +2718,7 @@
             "open_issues": 68,
             "owner": "Devlight",
             "repo": "NavigationTabBar",
-            "stars": 4923,
+            "stars": 4924,
             "topics": [
               "android",
               "badge",
@@ -4399,7 +4399,7 @@
             "open_issues": 95,
             "owner": "oguzbilgener",
             "repo": "CircularFloatingActionMenu",
-            "stars": 2718,
+            "stars": 2717,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -5338,7 +5338,7 @@
             "open_issues": 2066,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38169,
+            "stars": 38170,
             "topics": [
               "android",
               "chart",
@@ -5787,7 +5787,7 @@
             "open_issues": 74,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35724,
+            "stars": 35725,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6067,7 +6067,7 @@
             "open_issues": 24,
             "owner": "tyrantgit",
             "repo": "ExplosionField",
-            "stars": 3569,
+            "stars": 3568,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -6819,7 +6819,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8912,
+            "stars": 8911,
             "topics": [
               "android",
               "material-design"
@@ -6893,10 +6893,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T02:15:08Z",
-            "open_issues": 427,
+            "open_issues": 428,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54004,
+            "stars": 54013,
             "topics": [
               "android",
               "icons",
@@ -6997,7 +6997,7 @@
             "open_issues": 1,
             "owner": "skydoves",
             "repo": "Balloon",
-            "stars": 4008,
+            "stars": 4009,
             "topics": [
               "android",
               "android-library",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:06:07.161Z",
+    "last_updated": "2026-09-22T19:03:06.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7061,10 +7061,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-05T05:39:52Z",
-      "open_issues": 40,
+      "open_issues": 41,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57669,
+      "stars": 57690,
       "topics": [
         "android",
         "awesome",
