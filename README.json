@@ -15,8 +15,8 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T20:34:57Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-23T06:20:38Z",
+            "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2584,
@@ -50,8 +50,8 @@
             "id": 369294794,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:15:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-23T18:04:53Z",
+            "open_issues": 7,
             "owner": "iamjosephmj",
             "repo": "flinger",
             "stars": 201,
@@ -629,7 +629,7 @@
             "open_issues": 44,
             "owner": "liuguangqiang",
             "repo": "SwipeBack",
-            "stars": 1724,
+            "stars": 1723,
             "topics": [
               "android",
               "gesture",
@@ -788,7 +788,7 @@
             "open_issues": 299,
             "owner": "umano",
             "repo": "AndroidSlidingUpPanel",
-            "stars": 9444,
+            "stars": 9445,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4674,7 +4674,7 @@
             "open_issues": 15,
             "owner": "skydoves",
             "repo": "PowerMenu",
-            "stars": 1195,
+            "stars": 1194,
             "topics": [
               "android",
               "android-library",
@@ -4933,7 +4933,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19548,
+            "stars": 19547,
             "topics": [
               "alert",
               "android",
@@ -5334,11 +5334,11 @@
             "id": 19148949,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T17:12:00Z",
+            "last_commit": "2026-09-22T22:22:34Z",
             "open_issues": 2066,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38170,
+            "stars": 38171,
             "topics": [
               "android",
               "chart",
@@ -5398,7 +5398,7 @@
             "open_issues": 68,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12439,
+            "stars": 12438,
             "topics": [
               "android",
               "animation",
@@ -5787,7 +5787,7 @@
             "open_issues": 74,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35725,
+            "stars": 35728,
             "topics": [
               "after-effects",
               "airbnb",
@@ -5874,7 +5874,7 @@
             "open_issues": 51,
             "owner": "balysv",
             "repo": "material-ripple",
-            "stars": 2343,
+            "stars": 2344,
             "topics": [
               "android",
               "java",
@@ -6893,10 +6893,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T02:15:08Z",
-            "open_issues": 428,
+            "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54013,
+            "stars": 54020,
             "topics": [
               "android",
               "icons",
@@ -6997,7 +6997,7 @@
             "open_issues": 1,
             "owner": "skydoves",
             "repo": "Balloon",
-            "stars": 4009,
+            "stars": 4008,
             "topics": [
               "android",
               "android-library",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:03:06.166Z",
+    "last_updated": "2026-09-23T19:10:29.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 41,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57690,
+      "stars": 57699,
       "topics": [
         "android",
         "awesome",
