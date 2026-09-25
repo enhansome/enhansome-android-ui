@@ -15,7 +15,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T23:03:55Z",
+            "last_commit": "2026-09-25T18:05:23Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -50,8 +50,8 @@
             "id": 369294794,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-24T15:26:46Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-25T01:35:20Z",
+            "open_issues": 9,
             "owner": "iamjosephmj",
             "repo": "flinger",
             "stars": 202,
@@ -465,7 +465,7 @@
             "open_issues": 174,
             "owner": "liaohuqiu",
             "repo": "android-Ultra-Pull-To-Refresh",
-            "stars": 9500,
+            "stars": 9499,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -977,7 +977,7 @@
             "open_issues": 3,
             "owner": "mxn21",
             "repo": "FlowingDrawer",
-            "stars": 2544,
+            "stars": 2543,
             "topics": [
               "android-ui"
             ]
@@ -2445,7 +2445,7 @@
             "open_issues": 210,
             "owner": "JakeWharton",
             "repo": "ViewPagerIndicator",
-            "stars": 10056,
+            "stars": 10057,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2920,7 +2920,7 @@
             "open_issues": 0,
             "owner": "Rogero0o",
             "repo": "MatchView",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3325,7 +3325,7 @@
             "open_issues": 12,
             "owner": "AmrDeveloper",
             "repo": "CodeView",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "android",
               "android-codeview",
@@ -3914,7 +3914,7 @@
             "open_issues": 71,
             "owner": "happydog-intj",
             "repo": "CircleProgress",
-            "stars": 3794,
+            "stars": 3795,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4933,7 +4933,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19547,
+            "stars": 19546,
             "topics": [
               "alert",
               "android",
@@ -5145,7 +5145,7 @@
             "open_issues": 110,
             "owner": "wdullaer",
             "repo": "MaterialDateTimePicker",
-            "stars": 4625,
+            "stars": 4624,
             "topics": [
               "android",
               "android-library",
@@ -5314,7 +5314,7 @@
             "open_issues": 292,
             "owner": "lecho",
             "repo": "hellocharts-android",
-            "stars": 7568,
+            "stars": 7567,
             "topics": [
               "android",
               "chart"
@@ -5338,7 +5338,7 @@
             "open_issues": 2066,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38170,
+            "stars": 38171,
             "topics": [
               "android",
               "chart",
@@ -5398,7 +5398,7 @@
             "open_issues": 68,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12439,
+            "stars": 12438,
             "topics": [
               "android",
               "animation",
@@ -5787,7 +5787,7 @@
             "open_issues": 74,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35729,
+            "stars": 35732,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6892,11 +6892,11 @@
             "id": 24953448,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T02:15:08Z",
+            "last_commit": "2026-09-25T02:19:04Z",
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54027,
+            "stars": 54031,
             "topics": [
               "android",
               "icons",
@@ -6993,11 +6993,11 @@
             "id": 196805860,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T12:30:21Z",
+            "last_commit": "2026-09-24T21:15:56Z",
             "open_issues": 1,
             "owner": "skydoves",
             "repo": "Balloon",
-            "stars": 4008,
+            "stars": 4009,
             "topics": [
               "android",
               "android-library",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:26:53.470Z",
+    "last_updated": "2026-09-25T19:27:54.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 41,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57714,
+      "stars": 57721,
       "topics": [
         "android",
         "awesome",
