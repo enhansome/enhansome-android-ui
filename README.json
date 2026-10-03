@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2584,
+            "stars": 2586,
             "topics": [
               "android",
               "compose",
@@ -189,7 +189,7 @@
             "open_issues": 4,
             "owner": "CuriousNikhil",
             "repo": "neumorphic-compose",
-            "stars": 469,
+            "stars": 468,
             "topics": [
               "jetpack-compose",
               "kotlin",
@@ -1417,8 +1417,8 @@
             "id": 20593099,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-06-29T02:12:31Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-03T10:55:09Z",
+            "open_issues": 20,
             "owner": "dmytrodanylyk",
             "repo": "circular-progress-button",
             "stars": 5745,
@@ -2941,7 +2941,7 @@
             "open_issues": 60,
             "owner": "grantland",
             "repo": "android-autofittextview",
-            "stars": 4247,
+            "stars": 4246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3868,7 +3868,7 @@
             "open_issues": 14,
             "owner": "castorflex",
             "repo": "SmoothProgressBar",
-            "stars": 4511,
+            "stars": 4512,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -5784,10 +5784,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-02-15T22:03:57Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35734,
+            "stars": 35735,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6760,7 +6760,7 @@
             "open_issues": 27,
             "owner": "DanielMartinus",
             "repo": "Konfetti",
-            "stars": 3391,
+            "stars": 3392,
             "topics": [
               "android",
               "android-animation",
@@ -6893,10 +6893,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T02:22:12Z",
-            "open_issues": 427,
+            "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54063,
+            "stars": 54065,
             "topics": [
               "android",
               "icons",
@@ -6997,7 +6997,7 @@
             "open_issues": 1,
             "owner": "skydoves",
             "repo": "Balloon",
-            "stars": 4009,
+            "stars": 4011,
             "topics": [
               "android",
               "android-library",
@@ -7032,7 +7032,7 @@
             "open_issues": 7,
             "owner": "skydoves",
             "repo": "ColorPickerView",
-            "stars": 1715,
+            "stars": 1716,
             "topics": [
               "android",
               "android-library",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:19.513Z",
+    "last_updated": "2026-10-03T18:47:37.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 41,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57805,
+      "stars": 57812,
       "topics": [
         "android",
         "awesome",
