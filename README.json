@@ -1366,7 +1366,7 @@
             "open_issues": 6,
             "owner": "sjwall",
             "repo": "MaterialTapTargetPrompt",
-            "stars": 1507,
+            "stars": 1506,
             "topics": [
               "android",
               "deprecated",
@@ -4816,10 +4816,10 @@
             "description": "Advanced dialog solution for android",
             "homepage": null,
             "id": 27913753,
-            "language": "Java",
+            "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:55:33Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-03T22:27:03Z",
+            "open_issues": 54,
             "owner": "orhanobut",
             "repo": "dialogplus",
             "stars": 4956,
@@ -5787,7 +5787,7 @@
             "open_issues": 75,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35735,
+            "stars": 35736,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6893,10 +6893,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T02:22:12Z",
-            "open_issues": 426,
+            "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54065,
+            "stars": 54072,
             "topics": [
               "android",
               "icons",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:47:37.185Z",
+    "last_updated": "2026-10-04T18:44:37.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 41,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57812,
+      "stars": 57821,
       "topics": [
         "android",
         "awesome",
