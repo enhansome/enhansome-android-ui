@@ -15,7 +15,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T18:05:23Z",
+            "last_commit": "2026-10-06T16:05:30Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -158,7 +158,7 @@
             "open_issues": 8,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6881,
+            "stars": 6880,
             "topics": [
               "android",
               "android-ui",
@@ -507,7 +507,7 @@
             "open_issues": 56,
             "owner": "pedrovgs",
             "repo": "DraggablePanel",
-            "stars": 2955,
+            "stars": 2954,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1642,7 +1642,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2023-05-28T15:33:21Z",
-            "open_issues": 78,
+            "open_issues": 77,
             "owner": "makovkastar",
             "repo": "FloatingActionButton",
             "stars": 3960,
@@ -1831,7 +1831,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2022-09-08T07:08:01Z",
-            "open_issues": 137,
+            "open_issues": 134,
             "owner": "baoyongzhang",
             "repo": "SwipeMenuListView",
             "stars": 3486,
@@ -3391,7 +3391,7 @@
             "open_issues": 7,
             "owner": "hdodenhof",
             "repo": "CircleImageView",
-            "stars": 14477,
+            "stars": 14476,
             "topics": [
               "android",
               "imageview",
@@ -5145,7 +5145,7 @@
             "open_issues": 110,
             "owner": "wdullaer",
             "repo": "MaterialDateTimePicker",
-            "stars": 4624,
+            "stars": 4623,
             "topics": [
               "android",
               "android-library",
@@ -5338,7 +5338,7 @@
             "open_issues": 1,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38183,
+            "stars": 38185,
             "topics": [
               "android",
               "chart",
@@ -5398,7 +5398,7 @@
             "open_issues": 68,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12438,
+            "stars": 12437,
             "topics": [
               "android",
               "animation",
@@ -5486,7 +5486,7 @@
             "open_issues": 36,
             "owner": "skyfishjy",
             "repo": "android-ripple-background",
-            "stars": 2244,
+            "stars": 2243,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -5787,7 +5787,7 @@
             "open_issues": 78,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35737,
+            "stars": 35736,
             "topics": [
               "after-effects",
               "airbnb",
@@ -5901,7 +5901,7 @@
             "open_issues": 54,
             "owner": "traex",
             "repo": "RippleEffect",
-            "stars": 4888,
+            "stars": 4886,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:21:42.804Z",
+    "last_updated": "2026-10-06T20:30:07.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 41,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57849,
+      "stars": 57848,
       "topics": [
         "android",
         "awesome",
