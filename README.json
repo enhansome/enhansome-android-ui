@@ -767,7 +767,7 @@
             "open_issues": 28,
             "owner": "txusballesteros",
             "repo": "bubbles-for-android",
-            "stars": 1475,
+            "stars": 1474,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 16,
             "owner": "gelitenight",
             "repo": "WaveView",
-            "stars": 1608,
+            "stars": 1610,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1308,7 +1308,7 @@
             "open_issues": 57,
             "owner": "KeepSafe",
             "repo": "TapTargetView",
-            "stars": 5458,
+            "stars": 5459,
             "topics": [
               "android",
               "feature-discovery",
@@ -2190,7 +2190,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2023-08-21T04:59:46Z",
-            "open_issues": 195,
+            "open_issues": 194,
             "owner": "h6ah4i",
             "repo": "android-advancedrecyclerview",
             "stars": 5312,
@@ -3155,7 +3155,7 @@
             "open_issues": 33,
             "owner": "glomadrian",
             "repo": "material-code-input",
-            "stars": 952,
+            "stars": 951,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3277,7 +3277,7 @@
             "open_issues": 195,
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
-            "stars": 6072,
+            "stars": 6073,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3594,7 +3594,7 @@
             "open_issues": 79,
             "owner": "igreenwood",
             "repo": "SimpleCropView",
-            "stars": 2482,
+            "stars": 2483,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3889,7 +3889,7 @@
             "open_issues": 29,
             "owner": "daimajia",
             "repo": "NumberProgressBar",
-            "stars": 6085,
+            "stars": 6086,
             "topics": [
               "android",
               "numberprogressbar",
@@ -3914,7 +3914,7 @@
             "open_issues": 71,
             "owner": "happydog-intj",
             "repo": "CircleProgress",
-            "stars": 3797,
+            "stars": 3798,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4933,7 +4933,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19543,
+            "stars": 19542,
             "topics": [
               "alert",
               "android",
@@ -5077,7 +5077,7 @@
             "open_issues": 200,
             "owner": "alamkanak",
             "repo": "Android-Week-View",
-            "stars": 3443,
+            "stars": 3444,
             "topics": [
               "android",
               "calendar",
@@ -5398,7 +5398,7 @@
             "open_issues": 68,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12436,
+            "stars": 12437,
             "topics": [
               "android",
               "animation",
@@ -5787,7 +5787,7 @@
             "open_issues": 78,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35740,
+            "stars": 35743,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6732,7 +6732,7 @@
             "open_issues": 8,
             "owner": "DanielMartinus",
             "repo": "Stepper-Touch",
-            "stars": 689,
+            "stars": 688,
             "topics": [
               "android",
               "library",
@@ -6760,7 +6760,7 @@
             "open_issues": 27,
             "owner": "DanielMartinus",
             "repo": "Konfetti",
-            "stars": 3393,
+            "stars": 3392,
             "topics": [
               "android",
               "android-animation",
@@ -6893,10 +6893,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T02:26:05Z",
-            "open_issues": 428,
+            "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54098,
+            "stars": 54103,
             "topics": [
               "android",
               "icons",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:27:43.800Z",
+    "last_updated": "2026-10-11T19:39:52.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 41,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 57885,
+      "stars": 57903,
       "topics": [
         "android",
         "awesome",
