@@ -284,7 +284,7 @@
             "open_issues": 5,
             "owner": "kyze8439690",
             "repo": "ResideLayout",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -697,7 +697,7 @@
             "open_issues": 14,
             "owner": "Jawnnypoo",
             "repo": "PhysicsLayout",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "android",
               "box2d",
@@ -1000,7 +1000,7 @@
             "open_issues": 15,
             "owner": "gelitenight",
             "repo": "WaveView",
-            "stars": 1609,
+            "stars": 1608,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1336,7 +1336,7 @@
             "open_issues": 31,
             "owner": "TakuSemba",
             "repo": "Spotlight",
-            "stars": 3671,
+            "stars": 3670,
             "topics": [
               "android",
               "android-app",
@@ -2057,7 +2057,7 @@
             "open_issues": 110,
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
-            "stars": 11529,
+            "stars": 11527,
             "topics": [
               "android",
               "android-library",
@@ -3388,7 +3388,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2024-05-03T11:20:49Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "hdodenhof",
             "repo": "CircleImageView",
             "stars": 14465,
@@ -3985,7 +3985,7 @@
             "open_issues": 4,
             "owner": "akexorcist",
             "repo": "round-corner-progress-bar",
-            "stars": 2606,
+            "stars": 2607,
             "topics": [
               "android",
               "android-library",
@@ -4933,7 +4933,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19534,
+            "stars": 19533,
             "topics": [
               "alert",
               "android",
@@ -5338,7 +5338,7 @@
             "open_issues": 1,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38185,
+            "stars": 38186,
             "topics": [
               "android",
               "chart",
@@ -5398,7 +5398,7 @@
             "open_issues": 69,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12431,
+            "stars": 12432,
             "topics": [
               "android",
               "animation",
@@ -5623,7 +5623,7 @@
             "open_issues": 5,
             "owner": "daimajia",
             "repo": "AnimationEasingFunctions",
-            "stars": 2455,
+            "stars": 2456,
             "topics": [
               "android-easing-functions",
               "animation",
@@ -5955,7 +5955,7 @@
             "open_issues": 13,
             "owner": "Manabu-GT",
             "repo": "EtsyBlur",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "android-library",
               "blur",
@@ -6067,7 +6067,7 @@
             "open_issues": 24,
             "owner": "tyrantgit",
             "repo": "ExplosionField",
-            "stars": 3563,
+            "stars": 3562,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -6704,7 +6704,7 @@
             "open_issues": 16,
             "owner": "Yalantis",
             "repo": "Horizon",
-            "stars": 2249,
+            "stars": 2250,
             "topics": [
               "android",
               "animation",
@@ -6893,10 +6893,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 429,
+            "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54248,
+            "stars": 54252,
             "topics": [
               "android",
               "icons",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:33:33.889Z",
+    "last_updated": "2026-11-08T19:54:06.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 44,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 58344,
+      "stars": 58358,
       "topics": [
         "android",
         "awesome",
