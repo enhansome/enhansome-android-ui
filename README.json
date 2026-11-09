@@ -111,7 +111,7 @@
             "open_issues": 12,
             "owner": "rjrjr",
             "repo": "compose-backstack",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "android",
               "compose",
@@ -326,7 +326,7 @@
             "open_issues": 119,
             "owner": "ikew0ng",
             "repo": "SwipeBackLayout",
-            "stars": 6075,
+            "stars": 6074,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -465,7 +465,7 @@
             "open_issues": 174,
             "owner": "liaohuqiu",
             "repo": "android-Ultra-Pull-To-Refresh",
-            "stars": 9490,
+            "stars": 9489,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -830,7 +830,7 @@
             "open_issues": 22,
             "owner": "tuesda",
             "repo": "CircleRefreshLayout",
-            "stars": 1761,
+            "stars": 1760,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -977,7 +977,7 @@
             "open_issues": 3,
             "owner": "mxn21",
             "repo": "FlowingDrawer",
-            "stars": 2544,
+            "stars": 2543,
             "topics": [
               "android-ui"
             ]
@@ -1067,7 +1067,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18276,
+            "stars": 18275,
             "topics": [
               "android",
               "android-library",
@@ -1113,7 +1113,7 @@
             "open_issues": 32,
             "owner": "google",
             "repo": "hover",
-            "stars": 2607,
+            "stars": 2606,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1305,10 +1305,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2024-10-08T20:23:47Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "KeepSafe",
             "repo": "TapTargetView",
-            "stars": 5458,
+            "stars": 5459,
             "topics": [
               "android",
               "feature-discovery",
@@ -1421,7 +1421,7 @@
             "open_issues": 22,
             "owner": "dmytrodanylyk",
             "repo": "circular-progress-button",
-            "stars": 5741,
+            "stars": 5740,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1577,7 +1577,7 @@
             "open_issues": 0,
             "owner": "timonknispel",
             "repo": "KTLoadingButton",
-            "stars": 41,
+            "stars": 40,
             "topics": [
               "android",
               "android-application",
@@ -1813,7 +1813,7 @@
             "open_issues": 31,
             "owner": "Frank-Zhu",
             "repo": "PullZoomView",
-            "stars": 2303,
+            "stars": 2302,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1924,7 +1924,7 @@
             "open_issues": 177,
             "owner": "ksoichiro",
             "repo": "Android-ObservableScrollView",
-            "stars": 9604,
+            "stars": 9603,
             "topics": [
               "android",
               "android-library",
@@ -2057,7 +2057,7 @@
             "open_issues": 110,
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
-            "stars": 11527,
+            "stars": 11526,
             "topics": [
               "android",
               "android-library",
@@ -2516,7 +2516,7 @@
             "open_issues": 125,
             "owner": "ogaclejapan",
             "repo": "SmartTabLayout",
-            "stars": 7049,
+            "stars": 7048,
             "topics": [
               "android",
               "smarttablayout",
@@ -2748,7 +2748,7 @@
             "open_issues": 57,
             "owner": "alibaba",
             "repo": "UltraViewPager",
-            "stars": 4932,
+            "stars": 4931,
             "topics": [
               "android",
               "multi-page-switching",
@@ -3325,7 +3325,7 @@
             "open_issues": 12,
             "owner": "AmrDeveloper",
             "repo": "CodeView",
-            "stars": 419,
+            "stars": 418,
             "topics": [
               "android",
               "android-codeview",
@@ -3391,7 +3391,7 @@
             "open_issues": 6,
             "owner": "hdodenhof",
             "repo": "CircleImageView",
-            "stars": 14465,
+            "stars": 14464,
             "topics": [
               "android",
               "imageview",
@@ -3510,7 +3510,7 @@
             "open_issues": 0,
             "owner": "vinc3m1",
             "repo": "RoundedImageView",
-            "stars": 6392,
+            "stars": 6391,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3594,7 +3594,7 @@
             "open_issues": 79,
             "owner": "igreenwood",
             "repo": "SimpleCropView",
-            "stars": 2477,
+            "stars": 2476,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4137,7 +4137,7 @@
             "open_issues": 75,
             "owner": "HarlonWang",
             "repo": "AVLoadingIndicatorView",
-            "stars": 9738,
+            "stars": 9737,
             "topics": [
               "android",
               "animation",
@@ -4273,7 +4273,7 @@
             "open_issues": 9,
             "owner": "race604",
             "repo": "WaveLoading",
-            "stars": 1441,
+            "stars": 1440,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4420,7 +4420,7 @@
             "open_issues": 100,
             "owner": "SpecialCyCi",
             "repo": "AndroidResideMenu",
-            "stars": 2819,
+            "stars": 2818,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4543,7 +4543,7 @@
             "open_issues": 0,
             "owner": "xmuSistone",
             "repo": "android-snake-menu",
-            "stars": 583,
+            "stars": 582,
             "topics": [
               "menu",
               "snake",
@@ -4705,7 +4705,7 @@
             "open_issues": 30,
             "owner": "Droppers",
             "repo": "AnimatedBottomBar",
-            "stars": 1478,
+            "stars": 1477,
             "topics": [
               "android",
               "android-bottom-navigation",
@@ -5289,7 +5289,7 @@
             "open_issues": 174,
             "owner": "jjoe64",
             "repo": "GraphView",
-            "stars": 2775,
+            "stars": 2774,
             "topics": [
               "android",
               "android-library",
@@ -5314,7 +5314,7 @@
             "open_issues": 292,
             "owner": "lecho",
             "repo": "hellocharts-android",
-            "stars": 7560,
+            "stars": 7559,
             "topics": [
               "android",
               "chart"
@@ -5549,7 +5549,7 @@
             "open_issues": 12,
             "owner": "flavioarfaria",
             "repo": "KenBurnsView",
-            "stars": 2716,
+            "stars": 2717,
             "topics": [
               "android",
               "android-library",
@@ -5648,7 +5648,7 @@
             "open_issues": 10,
             "owner": "geftimov",
             "repo": "android-pathview",
-            "stars": 2882,
+            "stars": 2881,
             "topics": [
               "android",
               "android-pathview",
@@ -5901,7 +5901,7 @@
             "open_issues": 54,
             "owner": "traex",
             "repo": "RippleEffect",
-            "stars": 4881,
+            "stars": 4882,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -6067,7 +6067,7 @@
             "open_issues": 24,
             "owner": "tyrantgit",
             "repo": "ExplosionField",
-            "stars": 3562,
+            "stars": 3561,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -6215,7 +6215,7 @@
             "open_issues": 7,
             "owner": "skydoves",
             "repo": "TransformationLayout",
-            "stars": 2429,
+            "stars": 2428,
             "topics": [
               "android",
               "android-library",
@@ -6557,7 +6557,7 @@
             "open_issues": 15,
             "owner": "ImnIrdst",
             "repo": "iiVisu",
-            "stars": 158,
+            "stars": 157,
             "topics": [
               "android",
               "android-visualizer",
@@ -6678,7 +6678,7 @@
             "open_issues": 112,
             "owner": "houzi3",
             "repo": "StatusBarUtil",
-            "stars": 8729,
+            "stars": 8728,
             "topics": [
               "android",
               "statusbar",
@@ -6896,7 +6896,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54252,
+            "stars": 54262,
             "topics": [
               "android",
               "icons",
@@ -6946,7 +6946,7 @@
             "open_issues": 10,
             "owner": "ZieIony",
             "repo": "Carbon",
-            "stars": 3022,
+            "stars": 3021,
             "topics": [
               "android",
               "android-library",
@@ -7028,8 +7028,8 @@
             "id": 84079834,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:43:04Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-09T18:44:24Z",
+            "open_issues": 9,
             "owner": "skydoves",
             "repo": "ColorPickerView",
             "stars": 1716,
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:54:06.488Z",
+    "last_updated": "2026-11-09T23:50:04.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 44,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 58358,
+      "stars": 58377,
       "topics": [
         "android",
         "awesome",
