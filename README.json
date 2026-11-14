@@ -15,7 +15,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T23:09:41Z",
+            "last_commit": "2026-11-14T07:19:47Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -154,7 +154,7 @@
             "id": 293227683,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:45:22Z",
+            "last_commit": "2026-11-14T00:03:42Z",
             "open_issues": 41,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
@@ -1113,7 +1113,7 @@
             "open_issues": 32,
             "owner": "google",
             "repo": "hover",
-            "stars": 2606,
+            "stars": 2607,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2057,7 +2057,7 @@
             "open_issues": 110,
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
-            "stars": 11526,
+            "stars": 11525,
             "topics": [
               "android",
               "android-library",
@@ -2568,7 +2568,7 @@
             "open_issues": 183,
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8058,
+            "stars": 8057,
             "topics": [
               "android",
               "java",
@@ -3615,7 +3615,7 @@
             "open_issues": 3,
             "owner": "lankton",
             "repo": "android-anyshape",
-            "stars": 191,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4705,7 +4705,7 @@
             "open_issues": 30,
             "owner": "Droppers",
             "repo": "AnimatedBottomBar",
-            "stars": 1476,
+            "stars": 1474,
             "topics": [
               "android",
               "android-bottom-navigation",
@@ -4933,7 +4933,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19532,
+            "stars": 19531,
             "topics": [
               "alert",
               "android",
@@ -5077,7 +5077,7 @@
             "open_issues": 199,
             "owner": "alamkanak",
             "repo": "Android-Week-View",
-            "stars": 3440,
+            "stars": 3439,
             "topics": [
               "android",
               "calendar",
@@ -5575,7 +5575,7 @@
             "open_issues": 31,
             "owner": "facebookarchive",
             "repo": "rebound",
-            "stars": 5378,
+            "stars": 5377,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -5787,7 +5787,7 @@
             "open_issues": 84,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35770,
+            "stars": 35772,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6760,7 +6760,7 @@
             "open_issues": 8,
             "owner": "DanielMartinus",
             "repo": "Konfetti",
-            "stars": 3393,
+            "stars": 3394,
             "topics": [
               "android",
               "android-animation",
@@ -6893,7 +6893,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 430,
+            "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
             "stars": 54298,
@@ -6993,11 +6993,11 @@
             "id": 196805860,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T17:30:20Z",
+            "last_commit": "2026-11-14T06:11:45Z",
             "open_issues": 1,
             "owner": "skydoves",
             "repo": "Balloon",
-            "stars": 4017,
+            "stars": 4018,
             "topics": [
               "android",
               "android-library",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:31:18.881Z",
+    "last_updated": "2026-11-14T20:01:57.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 44,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 58451,
+      "stars": 58470,
       "topics": [
         "android",
         "awesome",
