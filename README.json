@@ -15,11 +15,11 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T03:26:06Z",
+            "last_commit": "2026-11-18T21:00:51Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "android",
               "compose",
@@ -189,7 +189,7 @@
             "open_issues": 4,
             "owner": "CuriousNikhil",
             "repo": "neumorphic-compose",
-            "stars": 467,
+            "stars": 469,
             "topics": [
               "jetpack-compose",
               "kotlin",
@@ -305,7 +305,7 @@
             "open_issues": 384,
             "owner": "daimajia",
             "repo": "AndroidSwipeLayout",
-            "stars": 12342,
+            "stars": 12343,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -655,7 +655,7 @@
             "open_issues": 17,
             "owner": "ogaclejapan",
             "repo": "ArcLayout",
-            "stars": 1354,
+            "stars": 1353,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1067,7 +1067,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18270,
+            "stars": 18271,
             "topics": [
               "android",
               "android-library",
@@ -1421,7 +1421,7 @@
             "open_issues": 22,
             "owner": "dmytrodanylyk",
             "repo": "circular-progress-button",
-            "stars": 5738,
+            "stars": 5737,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -1642,7 +1642,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2023-05-28T15:33:21Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "makovkastar",
             "repo": "FloatingActionButton",
             "stars": 3953,
@@ -1831,7 +1831,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2022-09-08T07:08:01Z",
-            "open_issues": 134,
+            "open_issues": 137,
             "owner": "baoyongzhang",
             "repo": "SwipeMenuListView",
             "stars": 3485,
@@ -2057,7 +2057,7 @@
             "open_issues": 110,
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
-            "stars": 11523,
+            "stars": 11524,
             "topics": [
               "android",
               "android-library",
@@ -2445,7 +2445,7 @@
             "open_issues": 209,
             "owner": "JakeWharton",
             "repo": "ViewPagerIndicator",
-            "stars": 10051,
+            "stars": 10052,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2748,7 +2748,7 @@
             "open_issues": 57,
             "owner": "alibaba",
             "repo": "UltraViewPager",
-            "stars": 4929,
+            "stars": 4928,
             "topics": [
               "android",
               "multi-page-switching",
@@ -3277,7 +3277,7 @@
             "open_issues": 195,
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
-            "stars": 6072,
+            "stars": 6071,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -3391,7 +3391,7 @@
             "open_issues": 6,
             "owner": "hdodenhof",
             "repo": "CircleImageView",
-            "stars": 14460,
+            "stars": 14461,
             "topics": [
               "android",
               "imageview",
@@ -3886,7 +3886,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2020-09-27T09:09:15Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "daimajia",
             "repo": "NumberProgressBar",
             "stars": 6087,
@@ -3985,7 +3985,7 @@
             "open_issues": 4,
             "owner": "akexorcist",
             "repo": "round-corner-progress-bar",
-            "stars": 2606,
+            "stars": 2607,
             "topics": [
               "android",
               "android-library",
@@ -4568,7 +4568,7 @@
             "open_issues": 121,
             "owner": "Nightonke",
             "repo": "BoomMenu",
-            "stars": 5772,
+            "stars": 5771,
             "topics": [
               "animation",
               "boom",
@@ -4933,7 +4933,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19530,
+            "stars": 19531,
             "topics": [
               "alert",
               "android",
@@ -5338,7 +5338,7 @@
             "open_issues": 1,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38186,
+            "stars": 38187,
             "topics": [
               "android",
               "chart",
@@ -5398,7 +5398,7 @@
             "open_issues": 69,
             "owner": "daimajia",
             "repo": "AndroidViewAnimations",
-            "stars": 12430,
+            "stars": 12428,
             "topics": [
               "android",
               "animation",
@@ -5623,7 +5623,7 @@
             "open_issues": 5,
             "owner": "daimajia",
             "repo": "AnimationEasingFunctions",
-            "stars": 2456,
+            "stars": 2455,
             "topics": [
               "android-easing-functions",
               "animation",
@@ -5787,7 +5787,7 @@
             "open_issues": 84,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35774,
+            "stars": 35773,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6896,7 +6896,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54321,
+            "stars": 54329,
             "topics": [
               "android",
               "icons",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:05:27.277Z",
+    "last_updated": "2026-11-18T22:40:18.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 44,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 58539,
+      "stars": 58554,
       "topics": [
         "android",
         "awesome",
