@@ -15,7 +15,7 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T05:54:00Z",
+            "last_commit": "2026-11-20T23:16:43Z",
             "open_issues": 3,
             "owner": "skydoves",
             "repo": "landscapist",
@@ -154,11 +154,11 @@
             "id": 293227683,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:03:42Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-21T00:03:38Z",
+            "open_issues": 40,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6891,
+            "stars": 6892,
             "topics": [
               "android",
               "android-ui",
@@ -1067,7 +1067,7 @@
             "open_issues": 132,
             "owner": "google",
             "repo": "flexbox-layout",
-            "stars": 18269,
+            "stars": 18268,
             "topics": [
               "android",
               "android-library",
@@ -3391,7 +3391,7 @@
             "open_issues": 6,
             "owner": "hdodenhof",
             "repo": "CircleImageView",
-            "stars": 14460,
+            "stars": 14459,
             "topics": [
               "android",
               "imageview",
@@ -3416,7 +3416,7 @@
             "open_issues": 63,
             "owner": "siyamed",
             "repo": "android-shape-imageview",
-            "stars": 2643,
+            "stars": 2644,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -5338,7 +5338,7 @@
             "open_issues": 1,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38185,
+            "stars": 38186,
             "topics": [
               "android",
               "chart",
@@ -5549,7 +5549,7 @@
             "open_issues": 12,
             "owner": "flavioarfaria",
             "repo": "KenBurnsView",
-            "stars": 2715,
+            "stars": 2716,
             "topics": [
               "android",
               "android-library",
@@ -5787,7 +5787,7 @@
             "open_issues": 85,
             "owner": "airbnb",
             "repo": "lottie-android",
-            "stars": 35774,
+            "stars": 35776,
             "topics": [
               "after-effects",
               "airbnb",
@@ -6406,7 +6406,7 @@
             "open_issues": 57,
             "owner": "omadahealth",
             "repo": "LolliPin",
-            "stars": 1586,
+            "stars": 1587,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -6896,7 +6896,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54340,
+            "stars": 54351,
             "topics": [
               "android",
               "icons",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:18:40.986Z",
+    "last_updated": "2026-11-21T21:01:14.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 44,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 58580,
+      "stars": 58602,
       "topics": [
         "android",
         "awesome",
