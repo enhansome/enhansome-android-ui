@@ -788,7 +788,7 @@
             "open_issues": 300,
             "owner": "umano",
             "repo": "AndroidSlidingUpPanel",
-            "stars": 9432,
+            "stars": 9433,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2057,7 +2057,7 @@
             "open_issues": 110,
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
-            "stars": 11522,
+            "stars": 11521,
             "topics": [
               "android",
               "android-library",
@@ -2424,7 +2424,7 @@
             "open_issues": 32,
             "owner": "ongakuer",
             "repo": "CircleIndicator",
-            "stars": 4248,
+            "stars": 4247,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2445,7 +2445,7 @@
             "open_issues": 209,
             "owner": "JakeWharton",
             "repo": "ViewPagerIndicator",
-            "stars": 10050,
+            "stars": 10049,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -2516,7 +2516,7 @@
             "open_issues": 125,
             "owner": "ogaclejapan",
             "repo": "SmartTabLayout",
-            "stars": 7044,
+            "stars": 7043,
             "topics": [
               "android",
               "smarttablayout",
@@ -2718,7 +2718,7 @@
             "open_issues": 68,
             "owner": "Devlight",
             "repo": "NavigationTabBar",
-            "stars": 4916,
+            "stars": 4915,
             "topics": [
               "android",
               "badge",
@@ -3719,7 +3719,7 @@
             "open_issues": 80,
             "owner": "AnderWeb",
             "repo": "discreteSeekBar",
-            "stars": 2128,
+            "stars": 2127,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4753,7 +4753,7 @@
             "open_issues": 84,
             "owner": "ManuelPeinado",
             "repo": "FadingActionBar",
-            "stars": 2830,
+            "stars": 2829,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4849,7 +4849,7 @@
             "open_issues": 161,
             "owner": "pedant",
             "repo": "sweet-alert-dialog",
-            "stars": 7203,
+            "stars": 7202,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -5014,7 +5014,7 @@
             "open_issues": 23,
             "owner": "square",
             "repo": "android-times-square",
-            "stars": 4401,
+            "stars": 4403,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -5145,7 +5145,7 @@
             "open_issues": 110,
             "owner": "wdullaer",
             "repo": "MaterialDateTimePicker",
-            "stars": 4616,
+            "stars": 4615,
             "topics": [
               "android",
               "android-library",
@@ -5314,7 +5314,7 @@
             "open_issues": 292,
             "owner": "lecho",
             "repo": "hellocharts-android",
-            "stars": 7558,
+            "stars": 7559,
             "topics": [
               "android",
               "chart"
@@ -5338,7 +5338,7 @@
             "open_issues": 1,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38186,
+            "stars": 38185,
             "topics": [
               "android",
               "chart",
@@ -5648,7 +5648,7 @@
             "open_issues": 10,
             "owner": "geftimov",
             "repo": "android-pathview",
-            "stars": 2879,
+            "stars": 2878,
             "topics": [
               "android",
               "android-pathview",
@@ -6756,11 +6756,11 @@
             "id": 86191112,
             "language": "Kotlin",
             "license": "ISC",
-            "last_commit": "2026-11-20T10:47:36Z",
+            "last_commit": "2026-11-22T18:25:42Z",
             "open_issues": 8,
             "owner": "DanielMartinus",
             "repo": "Konfetti",
-            "stars": 3393,
+            "stars": 3394,
             "topics": [
               "android",
               "android-animation",
@@ -6896,7 +6896,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54351,
+            "stars": 54356,
             "topics": [
               "android",
               "icons",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:01:14.887Z",
+    "last_updated": "2026-11-22T21:10:21.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 44,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 58602,
+      "stars": 58623,
       "topics": [
         "android",
         "awesome",
