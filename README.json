@@ -15,8 +15,8 @@
             "id": 298332340,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T21:02:56Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-27T16:23:06Z",
+            "open_issues": 9,
             "owner": "skydoves",
             "repo": "landscapist",
             "stars": 2588,
@@ -50,7 +50,7 @@
             "id": 369294794,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-20T06:35:57Z",
+            "last_commit": "2026-11-27T14:46:42Z",
             "open_issues": 9,
             "owner": "iamjosephmj",
             "repo": "flinger",
@@ -158,7 +158,7 @@
             "open_issues": 37,
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6893,
+            "stars": 6895,
             "topics": [
               "android",
               "android-ui",
@@ -2057,7 +2057,7 @@
             "open_issues": 110,
             "owner": "wasabeef",
             "repo": "recyclerview-animators",
-            "stars": 11521,
+            "stars": 11522,
             "topics": [
               "android",
               "android-library",
@@ -3636,7 +3636,7 @@
             "open_issues": 9,
             "owner": "gjiazhe",
             "repo": "PanoramaImageView",
-            "stars": 2159,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:14.296Z"
@@ -4568,7 +4568,7 @@
             "open_issues": 121,
             "owner": "Nightonke",
             "repo": "BoomMenu",
-            "stars": 5769,
+            "stars": 5768,
             "topics": [
               "animation",
               "boom",
@@ -5338,7 +5338,7 @@
             "open_issues": 1,
             "owner": "PhilJay",
             "repo": "MPAndroidChart",
-            "stars": 38184,
+            "stars": 38185,
             "topics": [
               "android",
               "chart",
@@ -6896,7 +6896,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54371,
+            "stars": 54379,
             "topics": [
               "android",
               "icons",
@@ -6993,7 +6993,7 @@
             "id": 196805860,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T07:08:19Z",
+            "last_commit": "2026-11-27T15:00:05Z",
             "open_issues": 1,
             "owner": "skydoves",
             "repo": "Balloon",
@@ -7052,7 +7052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:57:54.635Z",
+    "last_updated": "2026-11-27T23:39:50.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android UI/UX libraries",
@@ -7064,7 +7064,7 @@
       "open_issues": 44,
       "owner": "wasabeef",
       "repo": "awesome-android-ui",
-      "stars": 58684,
+      "stars": 58698,
       "topics": [
         "android",
         "awesome",
